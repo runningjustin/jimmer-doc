@@ -1,0 +1,28 @@
+{
+  "unversionedId": "overview/standard-demo",
+  "id": "overview/standard-demo",
+  "title": "Example(Fastest learning way)",
+  "description": "Running the examples that come with the framework is the most efficient way to get familiar with Jimmer.",
+  "source": "@site/docs/overview/standard-demo.mdx",
+  "sourceDirName": "overview",
+  "slug": "/overview/standard-demo",
+  "permalink": "/jimmer-doc/docs/overview/standard-demo",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/overview/standard-demo.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "Example(Fastest learning way)"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Different Entities",
+    "permalink": "/jimmer-doc/docs/overview/entity"
+  },
+  "next": {
+    "title": "Get Started",
+    "permalink": "/jimmer-doc/docs/overview/get-started/"
+  }
+}

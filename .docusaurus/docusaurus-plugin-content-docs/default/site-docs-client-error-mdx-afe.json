@@ -1,0 +1,28 @@
+{
+  "unversionedId": "client/error",
+  "id": "client/error",
+  "title": "Generate Client Errors",
+  "description": "This part is actually unrelated to ORM.",
+  "source": "@site/docs/client/error.mdx",
+  "sourceDirName": "client",
+  "slug": "/client/error",
+  "permalink": "/jimmer-doc/docs/client/error",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/client/error.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "Generate Client Errors"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Generate Client API",
+    "permalink": "/jimmer-doc/docs/client/api"
+  },
+  "next": {
+    "title": "Spring",
+    "permalink": "/jimmer-doc/docs/spring/"
+  }
+}

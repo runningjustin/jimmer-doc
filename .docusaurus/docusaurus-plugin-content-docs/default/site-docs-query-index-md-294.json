@@ -1,0 +1,28 @@
+{
+  "unversionedId": "query/index",
+  "id": "query/index",
+  "title": "Query",
+  "description": "In this section, we will introduce the various queries in Jimmer without considering Cache.",
+  "source": "@site/docs/query/index.md",
+  "sourceDirName": "query",
+  "slug": "/query/",
+  "permalink": "/jimmer-doc/docs/query/",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/query/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "Query"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "OnDissociate",
+    "permalink": "/jimmer-doc/docs/mapping/advanced/on-dissociate"
+  },
+  "next": {
+    "title": "Overview",
+    "permalink": "/jimmer-doc/docs/query/usage"
+  }
+}

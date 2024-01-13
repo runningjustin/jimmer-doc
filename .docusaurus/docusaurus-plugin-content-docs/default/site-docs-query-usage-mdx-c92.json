@@ -1,0 +1,28 @@
+{
+  "unversionedId": "query/usage",
+  "id": "query/usage",
+  "title": "Overview",
+  "description": "Select-After Style",
+  "source": "@site/docs/query/usage.mdx",
+  "sourceDirName": "query",
+  "slug": "/query/usage",
+  "permalink": "/jimmer-doc/docs/query/usage",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/query/usage.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Overview"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Query",
+    "permalink": "/jimmer-doc/docs/query/"
+  },
+  "next": {
+    "title": "🔥 Object Fetcher",
+    "permalink": "/jimmer-doc/docs/query/object-fetcher/"
+  }
+}

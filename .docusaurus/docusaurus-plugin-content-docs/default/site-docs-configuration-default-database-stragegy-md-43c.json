@@ -1,0 +1,28 @@
+{
+  "unversionedId": "configuration/default-database-stragegy",
+  "id": "configuration/default-database-stragegy",
+  "title": "Default Naming Strategy",
+  "description": "This configuration is explained in Mapping Section/Base Mapping/Naming Strategy.",
+  "source": "@site/docs/configuration/default-database-stragegy.md",
+  "sourceDirName": "configuration",
+  "slug": "/configuration/default-database-stragegy",
+  "permalink": "/jimmer-doc/docs/configuration/default-database-stragegy",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/configuration/default-database-stragegy.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6,
+    "title": "Default Naming Strategy"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Default Enum Strategy",
+    "permalink": "/jimmer-doc/docs/configuration/default-enum-strategy"
+  },
+  "next": {
+    "title": "Trigger Type",
+    "permalink": "/jimmer-doc/docs/configuration/trigger-type"
+  }
+}

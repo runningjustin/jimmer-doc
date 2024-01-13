@@ -1,0 +1,28 @@
+{
+  "unversionedId": "query/dynamic-order",
+  "id": "query/dynamic-order",
+  "title": "Dynamic Ordering",
+  "description": "Static Ordering",
+  "source": "@site/docs/query/dynamic-order.mdx",
+  "sourceDirName": "query",
+  "slug": "/query/dynamic-order",
+  "permalink": "/jimmer-doc/docs/query/dynamic-order",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/query/dynamic-order.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6,
+    "title": "Dynamic Ordering"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🔥 Implicit Subquery",
+    "permalink": "/jimmer-doc/docs/query/implicit-subquery"
+  },
+  "next": {
+    "title": "Aggregate & Group",
+    "permalink": "/jimmer-doc/docs/query/group"
+  }
+}

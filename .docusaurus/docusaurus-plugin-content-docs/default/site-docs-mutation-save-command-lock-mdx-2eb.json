@@ -1,0 +1,28 @@
+{
+  "unversionedId": "mutation/save-command/lock",
+  "id": "mutation/save-command/lock",
+  "title": "Optimistic/Pessimistic Lock",
+  "description": "Save commands support both optimistic lock and pessimistic lock.",
+  "source": "@site/docs/mutation/save-command/lock.mdx",
+  "sourceDirName": "mutation/save-command",
+  "slug": "/mutation/save-command/lock",
+  "permalink": "/jimmer-doc/docs/mutation/save-command/lock",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/mutation/save-command/lock.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7,
+    "title": "Optimistic/Pessimistic Lock"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Associated Id Checking",
+    "permalink": "/jimmer-doc/docs/mutation/save-command/id-checking"
+  },
+  "next": {
+    "title": "Other Features",
+    "permalink": "/jimmer-doc/docs/mutation/save-command/other"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "object/visibility",
+  "id": "object/visibility",
+  "title": "Visibility",
+  "description": "Previous documents have discussed in detail the dynamic and immutable properties of Jimmer entities. This introduces a new feature: visibility.",
+  "source": "@site/docs/object/visibility.mdx",
+  "sourceDirName": "object",
+  "slug": "/object/visibility",
+  "permalink": "/jimmer-doc/docs/object/visibility",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/object/visibility.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6,
+    "title": "Visibility"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "MapStruct",
+    "permalink": "/jimmer-doc/docs/object/view/mapstruct"
+  },
+  "next": {
+    "title": "Tool Methods",
+    "permalink": "/jimmer-doc/docs/object/tool"
+  }
+}

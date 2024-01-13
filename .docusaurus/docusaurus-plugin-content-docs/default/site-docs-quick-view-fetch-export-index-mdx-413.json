@@ -1,0 +1,28 @@
+{
+  "unversionedId": "quick-view/fetch/export/index",
+  "id": "quick-view/fetch/export/index",
+  "title": "Exposing Features",
+  "description": "Through the introduction of the previous article, we quickly previewed Jimmer's powerful ability to query arbitrary data structures at will.",
+  "source": "@site/docs/quick-view/fetch/export/index.mdx",
+  "sourceDirName": "quick-view/fetch/export",
+  "slug": "/quick-view/fetch/export/",
+  "permalink": "/jimmer-doc/docs/quick-view/fetch/export/",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/quick-view/fetch/export/index.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "Exposing Features"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Feature Introduction",
+    "permalink": "/jimmer-doc/docs/quick-view/fetch/feature"
+  },
+  "next": {
+    "title": "Directly Return Entities",
+    "permalink": "/jimmer-doc/docs/quick-view/fetch/export/entity"
+  }
+}

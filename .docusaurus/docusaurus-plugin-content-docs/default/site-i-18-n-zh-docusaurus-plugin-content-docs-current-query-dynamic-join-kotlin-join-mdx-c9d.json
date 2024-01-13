@@ -1,0 +1,28 @@
+{
+  "unversionedId": "query/dynamic-join/kotlin-join",
+  "id": "query/dynamic-join/kotlin-join",
+  "title": "Kotlin表连接特有功能",
+  "description": "抉择",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/query/dynamic-join/kotlin-join.mdx",
+  "sourceDirName": "query/dynamic-join",
+  "slug": "/query/dynamic-join/kotlin-join",
+  "permalink": "/jimmer-doc/zh/docs/query/dynamic-join/kotlin-join",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/query/dynamic-join/kotlin-join.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7,
+    "title": "Kotlin表连接特有功能"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "弱连接",
+    "permalink": "/jimmer-doc/zh/docs/query/dynamic-join/weak-join"
+  },
+  "next": {
+    "title": "🔥 隐式子查询",
+    "permalink": "/jimmer-doc/zh/docs/query/implicit-subquery"
+  }
+}

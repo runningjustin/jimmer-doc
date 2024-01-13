@@ -1,0 +1,28 @@
+{
+  "unversionedId": "mapping/advanced/view/many-to-many-view",
+  "id": "mapping/advanced/view/many-to-many-view",
+  "title": "ManyToManyView",
+  "description": "经典ORM关联的不足",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/mapping/advanced/view/many-to-many-view.mdx",
+  "sourceDirName": "mapping/advanced/view",
+  "slug": "/mapping/advanced/view/many-to-many-view",
+  "permalink": "/jimmer-doc/zh/docs/mapping/advanced/view/many-to-many-view",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/mapping/advanced/view/many-to-many-view.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "ManyToManyView"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "IdView",
+    "permalink": "/jimmer-doc/zh/docs/mapping/advanced/view/id-view"
+  },
+  "next": {
+    "title": "计算属性",
+    "permalink": "/jimmer-doc/zh/docs/mapping/advanced/calculated/"
+  }
+}

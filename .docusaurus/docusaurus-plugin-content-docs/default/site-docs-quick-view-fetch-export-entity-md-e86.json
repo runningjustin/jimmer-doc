@@ -1,0 +1,28 @@
+{
+  "unversionedId": "quick-view/fetch/export/entity",
+  "id": "quick-view/fetch/export/entity",
+  "title": "Directly Return Entity",
+  "description": "",
+  "source": "@site/docs/quick-view/fetch/export/entity.md",
+  "sourceDirName": "quick-view/fetch/export",
+  "slug": "/quick-view/fetch/export/entity",
+  "permalink": "/jimmer-doc/zh/docs/quick-view/fetch/export/entity",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer/tree/main/doc/docs/quick-view/fetch/export/entity.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Directly Return Entity"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "暴露功能",
+    "permalink": "/jimmer-doc/zh/docs/quick-view/fetch/export/"
+  },
+  "next": {
+    "title": "返回输出DTO",
+    "permalink": "/jimmer-doc/zh/docs/quick-view/fetch/export/dto"
+  }
+}

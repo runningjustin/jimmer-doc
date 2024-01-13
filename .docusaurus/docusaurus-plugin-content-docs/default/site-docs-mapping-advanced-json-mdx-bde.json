@@ -1,0 +1,28 @@
+{
+  "unversionedId": "mapping/advanced/json",
+  "id": "mapping/advanced/json",
+  "title": "JSON Mapping",
+  "description": "Jimmer supports JSON properties. In Java/Kotlin entity types, such properties can be declared as any type other than java.lang.Object and kotlin.Any.",
+  "source": "@site/docs/mapping/advanced/json.mdx",
+  "sourceDirName": "mapping/advanced",
+  "slug": "/mapping/advanced/json",
+  "permalink": "/jimmer-doc/docs/mapping/advanced/json",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/mapping/advanced/json.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7,
+    "title": "JSON Mapping"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Enum Mapping",
+    "permalink": "/jimmer-doc/docs/mapping/advanced/enum"
+  },
+  "next": {
+    "title": "Non-Structural Mapping",
+    "permalink": "/jimmer-doc/docs/mapping/advanced/join-sql"
+  }
+}

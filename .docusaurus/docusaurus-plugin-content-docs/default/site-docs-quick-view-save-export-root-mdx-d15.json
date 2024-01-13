@@ -1,0 +1,28 @@
+{
+  "unversionedId": "quick-view/save/export/root",
+  "id": "quick-view/save/export/root",
+  "title": "Save Aggregate Root",
+  "description": "Overview",
+  "source": "@site/docs/quick-view/save/export/root.mdx",
+  "sourceDirName": "quick-view/save/export",
+  "slug": "/quick-view/save/export/root",
+  "permalink": "/jimmer-doc/docs/quick-view/save/export/root",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/quick-view/save/export/root.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Save Aggregate Root"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Exposing Features",
+    "permalink": "/jimmer-doc/docs/quick-view/save/export/"
+  },
+  "next": {
+    "title": "Save Short Associations",
+    "permalink": "/jimmer-doc/docs/quick-view/save/export/short"
+  }
+}

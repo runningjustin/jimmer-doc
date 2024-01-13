@@ -1,0 +1,28 @@
+{
+  "unversionedId": "graphql/concept",
+  "id": "graphql/concept",
+  "title": "基本概念",
+  "description": "概念",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/graphql/concept.mdx",
+  "sourceDirName": "graphql",
+  "slug": "/graphql/concept",
+  "permalink": "/jimmer-doc/zh/docs/graphql/concept",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/graphql/concept.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "基本概念"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "GraphQL篇",
+    "permalink": "/jimmer-doc/zh/docs/graphql/"
+  },
+  "next": {
+    "title": "Query",
+    "permalink": "/jimmer-doc/zh/docs/graphql/query"
+  }
+}

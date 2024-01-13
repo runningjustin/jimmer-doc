@@ -1,0 +1,24 @@
+{
+  "unversionedId": "show-case/fetch/export/entity copy",
+  "id": "show-case/fetch/export/entity copy",
+  "title": "entity copy",
+  "description": "",
+  "source": "@site/docs/show-case/fetch/export/entity copy.md",
+  "sourceDirName": "show-case/fetch/export",
+  "slug": "/show-case/fetch/export/entity copy",
+  "permalink": "/jimmer-doc/zh/docs/show-case/fetch/export/entity copy",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer/tree/main/doc/docs/show-case/fetch/export/entity copy.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "index",
+    "permalink": "/jimmer-doc/zh/docs/show-case/fetch/export/"
+  },
+  "next": {
+    "title": "entity",
+    "permalink": "/jimmer-doc/zh/docs/show-case/fetch/export/entity"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "configuration/id-only-target-checking-level",
+  "id": "configuration/id-only-target-checking-level",
+  "title": "短关联id检查",
+  "description": "该配置在修改篇/保存指令/Enum映射/短关联id检查中被阐述。",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/configuration/id-only-target-checking-level.md",
+  "sourceDirName": "configuration",
+  "slug": "/configuration/id-only-target-checking-level",
+  "permalink": "/jimmer-doc/zh/docs/configuration/id-only-target-checking-level",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/configuration/id-only-target-checking-level.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 11,
+  "frontMatter": {
+    "sidebar_position": 11,
+    "title": "短关联id检查"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "缓存未生效的原因",
+    "permalink": "/jimmer-doc/zh/docs/configuration/cache-abandoned"
+  },
+  "next": {
+    "title": "保存指令悲观锁",
+    "permalink": "/jimmer-doc/zh/docs/configuration/save-command-pessimistic-lock"
+  }
+}

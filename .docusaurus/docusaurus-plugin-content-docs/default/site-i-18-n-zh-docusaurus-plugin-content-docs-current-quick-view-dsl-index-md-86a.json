@@ -1,0 +1,28 @@
+{
+  "unversionedId": "quick-view/dsl/index",
+  "id": "quick-view/dsl/index",
+  "title": "任意动态查询",
+  "description": "Jimmer支持强类型SQL DSL。",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/quick-view/dsl/index.md",
+  "sourceDirName": "quick-view/dsl",
+  "slug": "/quick-view/dsl/",
+  "permalink": "/jimmer-doc/zh/docs/quick-view/dsl/",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/quick-view/dsl/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "title": "任意动态查询"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "保存长关联",
+    "permalink": "/jimmer-doc/zh/docs/quick-view/save/export/long"
+  },
+  "next": {
+    "title": "功能介绍",
+    "permalink": "/jimmer-doc/zh/docs/quick-view/dsl/feature"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "query/object-fetcher/view",
+  "id": "query/object-fetcher/view",
+  "title": "View Properties",
+  "description": "IdView",
+  "source": "@site/docs/query/object-fetcher/view.mdx",
+  "sourceDirName": "query/object-fetcher",
+  "slug": "/query/object-fetcher/view",
+  "permalink": "/jimmer-doc/docs/query/object-fetcher/view",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/query/object-fetcher/view.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5,
+    "title": "View Properties"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Recursive Query",
+    "permalink": "/jimmer-doc/docs/query/object-fetcher/recursive"
+  },
+  "next": {
+    "title": "Querying DTOs",
+    "permalink": "/jimmer-doc/docs/query/object-fetcher/dto"
+  }
+}

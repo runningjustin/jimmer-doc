@@ -1,0 +1,28 @@
+{
+  "unversionedId": "mapping/advanced/mapped-super-class",
+  "id": "mapping/advanced/mapped-super-class",
+  "title": "MappedSuperclass",
+  "description": "Basic Usage",
+  "source": "@site/docs/mapping/advanced/mapped-super-class.mdx",
+  "sourceDirName": "mapping/advanced",
+  "slug": "/mapping/advanced/mapped-super-class",
+  "permalink": "/jimmer-doc/docs/mapping/advanced/mapped-super-class",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/mapping/advanced/mapped-super-class.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "MappedSuperclass"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Embedded Properties",
+    "permalink": "/jimmer-doc/docs/mapping/advanced/embedded"
+  },
+  "next": {
+    "title": "Logical Deletion",
+    "permalink": "/jimmer-doc/docs/mapping/advanced/logical-deleted"
+  }
+}

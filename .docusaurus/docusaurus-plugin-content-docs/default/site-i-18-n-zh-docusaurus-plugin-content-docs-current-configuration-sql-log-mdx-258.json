@@ -1,0 +1,28 @@
+{
+  "unversionedId": "configuration/sql-log",
+  "id": "configuration/sql-log",
+  "title": "SQL日志",
+  "description": "对于ORM而言，在日志中打印生成的SQL很重要。",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/configuration/sql-log.mdx",
+  "sourceDirName": "configuration",
+  "slug": "/configuration/sql-log",
+  "permalink": "/jimmer-doc/zh/docs/configuration/sql-log",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/configuration/sql-log.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "title": "SQL日志"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "批量控制",
+    "permalink": "/jimmer-doc/zh/docs/configuration/batch-size"
+  },
+  "next": {
+    "title": "默认枚举策略",
+    "permalink": "/jimmer-doc/zh/docs/configuration/default-enum-strategy"
+  }
+}

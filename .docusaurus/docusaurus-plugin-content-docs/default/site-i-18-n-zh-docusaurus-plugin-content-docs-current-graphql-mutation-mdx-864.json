@@ -1,0 +1,28 @@
+{
+  "unversionedId": "graphql/mutation",
+  "id": "graphql/mutation",
+  "title": "Mutation",
+  "description": "GraphQL Input介绍",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/graphql/mutation.mdx",
+  "sourceDirName": "graphql",
+  "slug": "/graphql/mutation",
+  "permalink": "/jimmer-doc/zh/docs/graphql/mutation",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/graphql/mutation.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "Mutation"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Query",
+    "permalink": "/jimmer-doc/zh/docs/graphql/query"
+  },
+  "next": {
+    "title": "对象篇",
+    "permalink": "/jimmer-doc/zh/docs/object/"
+  }
+}

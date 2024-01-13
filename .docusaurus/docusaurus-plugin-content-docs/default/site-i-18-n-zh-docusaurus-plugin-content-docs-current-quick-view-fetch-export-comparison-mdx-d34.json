@@ -1,0 +1,28 @@
+{
+  "unversionedId": "quick-view/fetch/export/comparison",
+  "id": "quick-view/fetch/export/comparison",
+  "title": "比较",
+  "description": "二者对比如下",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/quick-view/fetch/export/comparison.mdx",
+  "sourceDirName": "quick-view/fetch/export",
+  "slug": "/quick-view/fetch/export/comparison",
+  "permalink": "/jimmer-doc/zh/docs/quick-view/fetch/export/comparison",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/quick-view/fetch/export/comparison.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "title": "比较"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "返回输出DTO",
+    "permalink": "/jimmer-doc/zh/docs/quick-view/fetch/export/dto"
+  },
+  "next": {
+    "title": "保存任意形状",
+    "permalink": "/jimmer-doc/zh/docs/quick-view/save/"
+  }
+}

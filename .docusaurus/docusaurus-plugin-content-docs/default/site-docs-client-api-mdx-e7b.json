@@ -1,0 +1,28 @@
+{
+  "unversionedId": "client/api",
+  "id": "client/api",
+  "title": "Generate Client API",
+  "description": "Basic Concepts",
+  "source": "@site/docs/client/api.mdx",
+  "sourceDirName": "client",
+  "slug": "/client/api",
+  "permalink": "/jimmer-doc/docs/client/api",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/client/api.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Generate Client API"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Client",
+    "permalink": "/jimmer-doc/docs/client/"
+  },
+  "next": {
+    "title": "Generate Client Errors",
+    "permalink": "/jimmer-doc/docs/client/error"
+  }
+}

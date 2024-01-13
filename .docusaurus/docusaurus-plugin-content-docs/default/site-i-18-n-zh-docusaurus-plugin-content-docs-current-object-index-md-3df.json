@@ -1,0 +1,28 @@
+{
+  "unversionedId": "object/index",
+  "id": "object/index",
+  "title": "对象篇",
+  "description": "在本系列文章中，我们详细讨论Jimmer对象的动态性和不可变性。",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/object/index.md",
+  "sourceDirName": "object",
+  "slug": "/object/",
+  "permalink": "/jimmer-doc/zh/docs/object/",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/object/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 11,
+  "frontMatter": {
+    "sidebar_position": 11,
+    "title": "对象篇"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Mutation",
+    "permalink": "/jimmer-doc/zh/docs/graphql/mutation"
+  },
+  "next": {
+    "title": "🔥 动态性",
+    "permalink": "/jimmer-doc/zh/docs/object/dynamic"
+  }
+}

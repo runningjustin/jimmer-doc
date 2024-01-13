@@ -1,0 +1,28 @@
+{
+  "unversionedId": "quick-view/precondition",
+  "id": "quick-view/precondition",
+  "title": "Precondition",
+  "description": "To quickly preview Jimmer's main features, we need to provide several entities here as the basic assumption of all discussions in this section.",
+  "source": "@site/docs/quick-view/precondition.mdx",
+  "sourceDirName": "quick-view",
+  "slug": "/quick-view/precondition",
+  "permalink": "/jimmer-doc/docs/quick-view/precondition",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/quick-view/precondition.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Precondition"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Quick View",
+    "permalink": "/jimmer-doc/docs/quick-view/"
+  },
+  "next": {
+    "title": "Query Arbitrary Shape",
+    "permalink": "/jimmer-doc/docs/quick-view/fetch/"
+  }
+}

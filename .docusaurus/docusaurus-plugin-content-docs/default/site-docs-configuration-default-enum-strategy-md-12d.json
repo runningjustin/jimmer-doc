@@ -1,0 +1,28 @@
+{
+  "unversionedId": "configuration/default-enum-strategy",
+  "id": "configuration/default-enum-strategy",
+  "title": "Default Enum Strategy",
+  "description": "This configuration is explained in Mapping Section/Advanced Mapping/Enum Mapping/Don't explicitly use @EnumType.",
+  "source": "@site/docs/configuration/default-enum-strategy.md",
+  "sourceDirName": "configuration",
+  "slug": "/configuration/default-enum-strategy",
+  "permalink": "/jimmer-doc/docs/configuration/default-enum-strategy",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/configuration/default-enum-strategy.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5,
+    "title": "Default Enum Strategy"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SQL Log",
+    "permalink": "/jimmer-doc/docs/configuration/sql-log"
+  },
+  "next": {
+    "title": "Default Naming Strategy",
+    "permalink": "/jimmer-doc/docs/configuration/default-database-stragegy"
+  }
+}

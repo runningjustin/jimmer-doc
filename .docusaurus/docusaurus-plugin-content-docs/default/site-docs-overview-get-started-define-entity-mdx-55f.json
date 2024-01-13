@@ -1,0 +1,28 @@
+{
+  "unversionedId": "overview/get-started/define-entity",
+  "id": "overview/get-started/define-entity",
+  "title": "Define Entities",
+  "description": "Unlike ORMs like JPA/Hibernate, entities in Jimmer are defined as interfaces instead of classes. The reasons are discussed in Why Interfaces.",
+  "source": "@site/docs/overview/get-started/define-entity.mdx",
+  "sourceDirName": "overview/get-started",
+  "slug": "/overview/get-started/define-entity",
+  "permalink": "/jimmer-doc/docs/overview/get-started/define-entity",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/overview/get-started/define-entity.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "Define Entities"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Create Database",
+    "permalink": "/jimmer-doc/docs/overview/get-started/create-database"
+  },
+  "next": {
+    "title": "Generate Code",
+    "permalink": "/jimmer-doc/docs/overview/get-started/generate-code"
+  }
+}

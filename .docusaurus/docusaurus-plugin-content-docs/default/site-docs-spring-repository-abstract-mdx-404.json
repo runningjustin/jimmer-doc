@@ -1,0 +1,28 @@
+{
+  "unversionedId": "spring/repository/abstract",
+  "id": "spring/repository/abstract",
+  "title": "Simple Queries",
+  "description": "Just like other Spring Data implementations, users can define abstract methods in the Repository interface. As long as the names, parameters and return values of these methods follow conventions, Jimmer implements them automatically. For example:",
+  "source": "@site/docs/spring/repository/abstract.mdx",
+  "sourceDirName": "spring/repository",
+  "slug": "/spring/repository/abstract",
+  "permalink": "/jimmer-doc/docs/spring/repository/abstract",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/spring/repository/abstract.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "Simple Queries"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Define Repository",
+    "permalink": "/jimmer-doc/docs/spring/repository/concept"
+  },
+  "next": {
+    "title": "Complex Queries",
+    "permalink": "/jimmer-doc/docs/spring/repository/default"
+  }
+}

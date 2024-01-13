@@ -1,0 +1,28 @@
+{
+  "unversionedId": "query/dynamic-where",
+  "id": "query/dynamic-where",
+  "title": "动态筛选",
+  "description": "基本用法",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/query/dynamic-where.mdx",
+  "sourceDirName": "query",
+  "slug": "/query/dynamic-where",
+  "permalink": "/jimmer-doc/zh/docs/query/dynamic-where",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/query/dynamic-where.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "动态筛选"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "和Spring Data协同",
+    "permalink": "/jimmer-doc/zh/docs/query/object-fetcher/spring-data"
+  },
+  "next": {
+    "title": "动态JOIN",
+    "permalink": "/jimmer-doc/zh/docs/query/dynamic-join/"
+  }
+}

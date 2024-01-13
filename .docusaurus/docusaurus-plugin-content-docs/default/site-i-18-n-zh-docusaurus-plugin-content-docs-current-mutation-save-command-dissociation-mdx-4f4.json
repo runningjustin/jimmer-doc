@@ -1,0 +1,28 @@
+{
+  "unversionedId": "mutation/save-command/dissociation",
+  "id": "mutation/save-command/dissociation",
+  "title": "脱钩操作",
+  "description": "在保存关联对象时，会涉及一个重要的概念：脱勾操作。",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/mutation/save-command/dissociation.mdx",
+  "sourceDirName": "mutation/save-command",
+  "slug": "/mutation/save-command/dissociation",
+  "permalink": "/jimmer-doc/zh/docs/mutation/save-command/dissociation",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/mutation/save-command/dissociation.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5,
+    "title": "脱钩操作"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "保存关联",
+    "permalink": "/jimmer-doc/zh/docs/mutation/save-command/association"
+  },
+  "next": {
+    "title": "短关联id检查",
+    "permalink": "/jimmer-doc/zh/docs/mutation/save-command/id-checking"
+  }
+}

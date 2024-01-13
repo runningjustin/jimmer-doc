@@ -1,0 +1,28 @@
+{
+  "unversionedId": "resource/ecosystem",
+  "id": "resource/ecosystem",
+  "title": "生态",
+  "description": "Jimmer只专注于ORM本身，未提供辅助工具，比如，根据数据库结构生产实体接口的定义。",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/resource/ecosystem.mdx",
+  "sourceDirName": "resource",
+  "slug": "/resource/ecosystem",
+  "permalink": "/jimmer-doc/zh/docs/resource/ecosystem",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/resource/ecosystem.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "生态"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "来自成功案例的声音",
+    "permalink": "/jimmer-doc/zh/docs/resource/vice-of-sccuessed"
+  },
+  "next": {
+    "title": "视频资料",
+    "permalink": "/jimmer-doc/zh/docs/resource/vedio"
+  }
+}

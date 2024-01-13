@@ -1,0 +1,28 @@
+{
+  "unversionedId": "object/immutable/index",
+  "id": "object/immutable/index",
+  "title": "Immutability",
+  "description": "Immutability is used to ensure that the data structure represented by Jimmer objects never contains circular references.",
+  "source": "@site/docs/object/immutable/index.md",
+  "sourceDirName": "object/immutable",
+  "slug": "/object/immutable/",
+  "permalink": "/jimmer-doc/docs/object/immutable/",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/object/immutable/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "Immutability"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🔥 Dynamicity",
+    "permalink": "/jimmer-doc/docs/object/dynamic"
+  },
+  "next": {
+    "title": "Reason",
+    "permalink": "/jimmer-doc/docs/object/immutable/reason"
+  }
+}

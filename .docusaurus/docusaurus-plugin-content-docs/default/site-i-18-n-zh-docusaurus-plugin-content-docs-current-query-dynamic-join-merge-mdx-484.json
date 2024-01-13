@@ -1,0 +1,28 @@
+{
+  "unversionedId": "query/dynamic-join/merge",
+  "id": "query/dynamic-join/merge",
+  "title": "合并冲突连接",
+  "description": "使用方法",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/query/dynamic-join/merge.mdx",
+  "sourceDirName": "query/dynamic-join",
+  "slug": "/query/dynamic-join/merge",
+  "permalink": "/jimmer-doc/zh/docs/query/dynamic-join/merge",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/query/dynamic-join/merge.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "合并冲突连接"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "链式关联路径",
+    "permalink": "/jimmer-doc/zh/docs/query/dynamic-join/chain-style"
+  },
+  "next": {
+    "title": "优化不必要连接",
+    "permalink": "/jimmer-doc/zh/docs/query/dynamic-join/optimization"
+  }
+}

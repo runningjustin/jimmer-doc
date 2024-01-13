@@ -1,0 +1,28 @@
+{
+  "unversionedId": "configuration/save-command-pessimistic-lock",
+  "id": "configuration/save-command-pessimistic-lock",
+  "title": "Pessimistic Lock",
+  "description": "This configuration is explained in Mutation Section/Save Command/Pessimistic Lock.",
+  "source": "@site/docs/configuration/save-command-pessimistic-lock.md",
+  "sourceDirName": "configuration",
+  "slug": "/configuration/save-command-pessimistic-lock",
+  "permalink": "/jimmer-doc/docs/configuration/save-command-pessimistic-lock",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/configuration/save-command-pessimistic-lock.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 12,
+  "frontMatter": {
+    "sidebar_position": 12,
+    "title": "Pessimistic Lock"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Associated Id Checking",
+    "permalink": "/jimmer-doc/docs/configuration/id-only-target-checking-level"
+  },
+  "next": {
+    "title": "Default Dissociation Mode",
+    "permalink": "/jimmer-doc/docs/configuration/dissociate-action-checking"
+  }
+}

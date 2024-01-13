@@ -1,0 +1,28 @@
+{
+  "unversionedId": "mapping/base/association/one-to-many",
+  "id": "mapping/base/association/one-to-many",
+  "title": "一对多",
+  "description": "和JPA不同，Jimmer不支持单向一对多关联，一对多关联只能作为多对一关联镜像。也就是说，一对多关联必然意味着双向关联。",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/mapping/base/association/one-to-many.mdx",
+  "sourceDirName": "mapping/base/association",
+  "slug": "/mapping/base/association/one-to-many",
+  "permalink": "/jimmer-doc/zh/docs/mapping/base/association/one-to-many",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/mapping/base/association/one-to-many.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "一对多"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "多对一",
+    "permalink": "/jimmer-doc/zh/docs/mapping/base/association/many-to-one"
+  },
+  "next": {
+    "title": "多对多",
+    "permalink": "/jimmer-doc/zh/docs/mapping/base/association/many-to-many"
+  }
+}

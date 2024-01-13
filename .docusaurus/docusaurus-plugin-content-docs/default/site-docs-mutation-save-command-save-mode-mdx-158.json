@@ -1,0 +1,28 @@
+{
+  "unversionedId": "mutation/save-command/save-mode",
+  "id": "mutation/save-command/save-mode",
+  "title": "Save Mode",
+  "description": "Save commands support 3 save modes that control how the aggregate root itself is saved:",
+  "source": "@site/docs/mutation/save-command/save-mode.mdx",
+  "sourceDirName": "mutation/save-command",
+  "slug": "/mutation/save-command/save-mode",
+  "permalink": "/jimmer-doc/docs/mutation/save-command/save-mode",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/mutation/save-command/save-mode.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "Save Mode"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Basic Usage",
+    "permalink": "/jimmer-doc/docs/mutation/save-command/usage"
+  },
+  "next": {
+    "title": "Incomplete Object",
+    "permalink": "/jimmer-doc/docs/mutation/save-command/incomplete"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "query/global-filter/user-filter",
+  "id": "query/global-filter/user-filter",
+  "title": "自定义过滤器",
+  "description": "提供抽象实体基类",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/query/global-filter/user-filter.mdx",
+  "sourceDirName": "query/global-filter",
+  "slug": "/query/global-filter/user-filter",
+  "permalink": "/jimmer-doc/zh/docs/query/global-filter/user-filter",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/query/global-filter/user-filter.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "自定义过滤器"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "全局过滤器",
+    "permalink": "/jimmer-doc/zh/docs/query/global-filter/"
+  },
+  "next": {
+    "title": "逻辑删除",
+    "permalink": "/jimmer-doc/zh/docs/query/global-filter/logical-deleted"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "spring/repository/abstract",
+  "id": "spring/repository/abstract",
+  "title": "简单查询",
+  "description": "和其他spring-data实现一样，用户可以在Repository接口内部定义抽象方法。只要这些方法的名称、参数和返回值遵循约定，Jimmer自动实现它们。比如",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/spring/repository/abstract.mdx",
+  "sourceDirName": "spring/repository",
+  "slug": "/spring/repository/abstract",
+  "permalink": "/jimmer-doc/zh/docs/spring/repository/abstract",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/spring/repository/abstract.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "简单查询"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "定义Repository",
+    "permalink": "/jimmer-doc/zh/docs/spring/repository/concept"
+  },
+  "next": {
+    "title": "复杂查询",
+    "permalink": "/jimmer-doc/zh/docs/spring/repository/default"
+  }
+}

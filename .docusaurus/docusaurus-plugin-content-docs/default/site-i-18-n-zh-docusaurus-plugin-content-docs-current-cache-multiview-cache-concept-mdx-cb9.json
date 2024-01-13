@@ -1,0 +1,28 @@
+{
+  "unversionedId": "cache/multiview-cache/concept",
+  "id": "cache/multiview-cache/concept",
+  "title": "基本概念",
+  "description": "概念",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/cache/multiview-cache/concept.mdx",
+  "sourceDirName": "cache/multiview-cache",
+  "slug": "/cache/multiview-cache/concept",
+  "permalink": "/jimmer-doc/zh/docs/cache/multiview-cache/concept",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/cache/multiview-cache/concept.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "基本概念"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "多视角缓存",
+    "permalink": "/jimmer-doc/zh/docs/cache/multiview-cache/"
+  },
+  "next": {
+    "title": "自定义过滤器",
+    "permalink": "/jimmer-doc/zh/docs/cache/multiview-cache/user-filter"
+  }
+}

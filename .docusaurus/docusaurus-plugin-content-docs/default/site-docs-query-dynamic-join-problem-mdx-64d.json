@@ -1,0 +1,28 @@
+{
+  "unversionedId": "query/dynamic-join/problem",
+  "id": "query/dynamic-join/problem",
+  "title": "Problems with Other Solutions",
+  "description": "In the previous doc, we discussed dynamic queries. In this section, we will explore the problems with dynamic table joins.",
+  "source": "@site/docs/query/dynamic-join/problem.mdx",
+  "sourceDirName": "query/dynamic-join",
+  "slug": "/query/dynamic-join/problem",
+  "permalink": "/jimmer-doc/docs/query/dynamic-join/problem",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/query/dynamic-join/problem.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Problems with Other Solutions"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🔥 Dynamic JOIN",
+    "permalink": "/jimmer-doc/docs/query/dynamic-join/"
+  },
+  "next": {
+    "title": "Association Path Chaining",
+    "permalink": "/jimmer-doc/docs/query/dynamic-join/chain-style"
+  }
+}

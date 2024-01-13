@@ -1,0 +1,28 @@
+{
+  "unversionedId": "query/usage",
+  "id": "query/usage",
+  "title": "概述",
+  "description": "select后置风格",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/query/usage.mdx",
+  "sourceDirName": "query",
+  "slug": "/query/usage",
+  "permalink": "/jimmer-doc/zh/docs/query/usage",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/query/usage.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "概述"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "查询篇",
+    "permalink": "/jimmer-doc/zh/docs/query/"
+  },
+  "next": {
+    "title": "🔥 对象抓取器",
+    "permalink": "/jimmer-doc/zh/docs/query/object-fetcher/"
+  }
+}

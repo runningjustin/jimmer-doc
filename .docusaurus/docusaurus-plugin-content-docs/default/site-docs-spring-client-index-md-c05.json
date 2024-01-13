@@ -1,0 +1,28 @@
+{
+  "unversionedId": "spring/client/index",
+  "id": "spring/client/index",
+  "title": "🔥 Generate Client Code",
+  "description": "In this series of articles, we will introduce generating client code.",
+  "source": "@site/docs/spring/client/index.md",
+  "sourceDirName": "spring/client",
+  "slug": "/spring/client/",
+  "permalink": "/jimmer-doc/docs/spring/client/",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer/tree/main/doc/docs/spring/client/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "🔥 Generate Client Code"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Query DTO",
+    "permalink": "/jimmer-doc/docs/spring/repository/dto"
+  },
+  "next": {
+    "title": "Generate Client API",
+    "permalink": "/jimmer-doc/docs/spring/client/api"
+  }
+}

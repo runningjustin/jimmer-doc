@@ -1,0 +1,28 @@
+{
+  "unversionedId": "configuration/cache-abandoned",
+  "id": "configuration/cache-abandoned",
+  "title": "Cache Abandoned Reason",
+  "description": "This configuration is explained in Cache Section/Multiview Cache/Cache Abandoned Reason.",
+  "source": "@site/docs/configuration/cache-abandoned.md",
+  "sourceDirName": "configuration",
+  "slug": "/configuration/cache-abandoned",
+  "permalink": "/jimmer-doc/docs/configuration/cache-abandoned",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/configuration/cache-abandoned.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_position": 10,
+    "title": "Cache Abandoned Reason"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Scala Provider",
+    "permalink": "/jimmer-doc/docs/configuration/scala-providder"
+  },
+  "next": {
+    "title": "Associated Id Checking",
+    "permalink": "/jimmer-doc/docs/configuration/id-only-target-checking-level"
+  }
+}

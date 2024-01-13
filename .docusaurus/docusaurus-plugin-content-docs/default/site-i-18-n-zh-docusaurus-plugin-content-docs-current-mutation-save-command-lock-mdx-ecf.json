@@ -1,0 +1,28 @@
+{
+  "unversionedId": "mutation/save-command/lock",
+  "id": "mutation/save-command/lock",
+  "title": "乐观锁和悲观锁",
+  "description": "保存指令支持乐观锁和悲观锁。",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/mutation/save-command/lock.mdx",
+  "sourceDirName": "mutation/save-command",
+  "slug": "/mutation/save-command/lock",
+  "permalink": "/jimmer-doc/zh/docs/mutation/save-command/lock",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/mutation/save-command/lock.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7,
+    "title": "乐观锁和悲观锁"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "短关联id检查",
+    "permalink": "/jimmer-doc/zh/docs/mutation/save-command/id-checking"
+  },
+  "next": {
+    "title": "其它功能",
+    "permalink": "/jimmer-doc/zh/docs/mutation/save-command/other"
+  }
+}

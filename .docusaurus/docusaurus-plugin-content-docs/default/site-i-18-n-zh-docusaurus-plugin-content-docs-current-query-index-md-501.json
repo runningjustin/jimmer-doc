@@ -1,0 +1,28 @@
+{
+  "unversionedId": "query/index",
+  "id": "query/index",
+  "title": "查询篇",
+  "description": "在这个章节中，我们将会在不考虑缓存的情况下介绍Jimmer中各种查询。",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/query/index.md",
+  "sourceDirName": "query",
+  "slug": "/query/",
+  "permalink": "/jimmer-doc/zh/docs/query/",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/query/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "title": "查询篇"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "OnDissociate",
+    "permalink": "/jimmer-doc/zh/docs/mapping/advanced/on-dissociate"
+  },
+  "next": {
+    "title": "概述",
+    "permalink": "/jimmer-doc/zh/docs/query/usage"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "object/view/dto-language",
+  "id": "object/view/dto-language",
+  "title": "🔥 DTO语言",
+  "description": "1. 概念",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/object/view/dto-language.mdx",
+  "sourceDirName": "object/view",
+  "slug": "/object/view/dto-language",
+  "permalink": "/jimmer-doc/zh/docs/object/view/dto-language",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/object/view/dto-language.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "🔥 DTO语言"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "DTO转换",
+    "permalink": "/jimmer-doc/zh/docs/object/view/"
+  },
+  "next": {
+    "title": "MapStruct",
+    "permalink": "/jimmer-doc/zh/docs/object/view/mapstruct"
+  }
+}

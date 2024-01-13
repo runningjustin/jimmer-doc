@@ -1,0 +1,28 @@
+{
+  "unversionedId": "client/index",
+  "id": "client/index",
+  "title": "客户端篇",
+  "description": "Jimmer为HTTP客户端开发提供了良好的开发体验。",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/client/index.mdx",
+  "sourceDirName": "client",
+  "slug": "/client/",
+  "permalink": "/jimmer-doc/zh/docs/client/",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/client/index.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7,
+    "title": "客户端篇"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "缓存未生效的原因",
+    "permalink": "/jimmer-doc/zh/docs/cache/multiview-cache/abandoned-callback"
+  },
+  "next": {
+    "title": "生成客户端API",
+    "permalink": "/jimmer-doc/zh/docs/client/api"
+  }
+}

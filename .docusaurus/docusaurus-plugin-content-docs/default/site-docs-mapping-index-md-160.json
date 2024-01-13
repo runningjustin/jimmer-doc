@@ -1,0 +1,28 @@
+{
+  "unversionedId": "mapping/index",
+  "id": "mapping/index",
+  "title": "Mapping",
+  "description": "In this section, we introduce how to map a relational database to entity model.",
+  "source": "@site/docs/mapping/index.md",
+  "sourceDirName": "mapping",
+  "slug": "/mapping/",
+  "permalink": "/jimmer-doc/docs/mapping/",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/mapping/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "Mapping"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Super QBE",
+    "permalink": "/jimmer-doc/docs/quick-view/dsl/super_qbe"
+  },
+  "next": {
+    "title": "Base mapping",
+    "permalink": "/jimmer-doc/docs/mapping/base/"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "mutation/save-command/input-dto/lonely",
+  "id": "mutation/save-command/input-dto/lonely",
+  "title": "孤单表单",
+  "description": "这是一个非常简陋的方案，仅供学习或非常简单的项目使用。",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/mutation/save-command/input-dto/lonely.mdx",
+  "sourceDirName": "mutation/save-command/input-dto",
+  "slug": "/mutation/save-command/input-dto/lonely",
+  "permalink": "/jimmer-doc/zh/docs/mutation/save-command/input-dto/lonely",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/mutation/save-command/input-dto/lonely.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "孤单表单"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "问题",
+    "permalink": "/jimmer-doc/zh/docs/mutation/save-command/input-dto/problem"
+  },
+  "next": {
+    "title": "使用DTO语言",
+    "permalink": "/jimmer-doc/zh/docs/mutation/save-command/input-dto/dto-lang"
+  }
+}

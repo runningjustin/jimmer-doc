@@ -1,0 +1,28 @@
+{
+  "unversionedId": "mutation/trigger",
+  "id": "mutation/trigger",
+  "title": "🔥 触发器",
+  "description": "Jimmer支持触发器，用户可以监听数据库的变化。",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/mutation/trigger.mdx",
+  "sourceDirName": "mutation",
+  "slug": "/mutation/trigger",
+  "permalink": "/jimmer-doc/zh/docs/mutation/trigger",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/mutation/trigger.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7,
+    "title": "🔥 触发器"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "保存前拦截器",
+    "permalink": "/jimmer-doc/zh/docs/mutation/draft-interceptor"
+  },
+  "next": {
+    "title": "缓存篇",
+    "permalink": "/jimmer-doc/zh/docs/cache/"
+  }
+}

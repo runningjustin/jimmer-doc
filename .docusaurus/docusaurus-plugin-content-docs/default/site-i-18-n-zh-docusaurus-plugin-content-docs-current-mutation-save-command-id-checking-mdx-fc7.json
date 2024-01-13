@@ -1,0 +1,28 @@
+{
+  "unversionedId": "mutation/save-command/id-checking",
+  "id": "mutation/save-command/id-checking",
+  "title": "短关联id检查",
+  "description": "基本概念",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/mutation/save-command/id-checking.mdx",
+  "sourceDirName": "mutation/save-command",
+  "slug": "/mutation/save-command/id-checking",
+  "permalink": "/jimmer-doc/zh/docs/mutation/save-command/id-checking",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/mutation/save-command/id-checking.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6,
+    "title": "短关联id检查"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "脱钩操作",
+    "permalink": "/jimmer-doc/zh/docs/mutation/save-command/dissociation"
+  },
+  "next": {
+    "title": "乐观锁和悲观锁",
+    "permalink": "/jimmer-doc/zh/docs/mutation/save-command/lock"
+  }
+}

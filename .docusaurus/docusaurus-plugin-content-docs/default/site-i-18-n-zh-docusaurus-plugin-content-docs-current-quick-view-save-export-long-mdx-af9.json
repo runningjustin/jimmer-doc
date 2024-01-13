@@ -1,0 +1,28 @@
+{
+  "unversionedId": "quick-view/save/export/long",
+  "id": "quick-view/save/export/long",
+  "title": "保存长关联",
+  "description": "何谓短关联",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/quick-view/save/export/long.mdx",
+  "sourceDirName": "quick-view/save/export",
+  "slug": "/quick-view/save/export/long",
+  "permalink": "/jimmer-doc/zh/docs/quick-view/save/export/long",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/quick-view/save/export/long.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "保存长关联"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "保存短关联",
+    "permalink": "/jimmer-doc/zh/docs/quick-view/save/export/short"
+  },
+  "next": {
+    "title": "任意动态查询",
+    "permalink": "/jimmer-doc/zh/docs/quick-view/dsl/"
+  }
+}

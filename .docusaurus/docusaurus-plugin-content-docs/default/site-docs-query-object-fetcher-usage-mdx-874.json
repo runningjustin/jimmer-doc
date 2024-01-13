@@ -1,0 +1,28 @@
+{
+  "unversionedId": "query/object-fetcher/usage",
+  "id": "query/object-fetcher/usage",
+  "title": "Basic Usage",
+  "description": "Why Introduce Object Fetchers",
+  "source": "@site/docs/query/object-fetcher/usage.mdx",
+  "sourceDirName": "query/object-fetcher",
+  "slug": "/query/object-fetcher/usage",
+  "permalink": "/jimmer-doc/docs/query/object-fetcher/usage",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/query/object-fetcher/usage.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Basic Usage"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🔥 Object Fetcher",
+    "permalink": "/jimmer-doc/docs/query/object-fetcher/"
+  },
+  "next": {
+    "title": "Ordinary Properties",
+    "permalink": "/jimmer-doc/docs/query/object-fetcher/props"
+  }
+}

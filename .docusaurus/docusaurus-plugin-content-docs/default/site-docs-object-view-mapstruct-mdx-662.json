@@ -1,0 +1,28 @@
+{
+  "unversionedId": "object/view/mapstruct",
+  "id": "object/view/mapstruct",
+  "title": "MapStruct",
+  "description": "Introduction",
+  "source": "@site/docs/object/view/mapstruct.mdx",
+  "sourceDirName": "object/view",
+  "slug": "/object/view/mapstruct",
+  "permalink": "/jimmer-doc/docs/object/view/mapstruct",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/object/view/mapstruct.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "MapStruct"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🔥 DTO Language",
+    "permalink": "/jimmer-doc/docs/object/view/dto-language"
+  },
+  "next": {
+    "title": "Visibility",
+    "permalink": "/jimmer-doc/docs/object/visibility"
+  }
+}

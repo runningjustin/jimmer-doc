@@ -1,0 +1,28 @@
+{
+  "unversionedId": "configuration/cache-abandoned",
+  "id": "configuration/cache-abandoned",
+  "title": "缓存未生效的原因",
+  "description": "该配置在缓存篇/多视图缓存/缓存未生效的原因中被阐述。",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/configuration/cache-abandoned.md",
+  "sourceDirName": "configuration",
+  "slug": "/configuration/cache-abandoned",
+  "permalink": "/jimmer-doc/zh/docs/configuration/cache-abandoned",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/configuration/cache-abandoned.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_position": 10,
+    "title": "缓存未生效的原因"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Scala Provider",
+    "permalink": "/jimmer-doc/zh/docs/configuration/scala-providder"
+  },
+  "next": {
+    "title": "短关联id检查",
+    "permalink": "/jimmer-doc/zh/docs/configuration/id-only-target-checking-level"
+  }
+}

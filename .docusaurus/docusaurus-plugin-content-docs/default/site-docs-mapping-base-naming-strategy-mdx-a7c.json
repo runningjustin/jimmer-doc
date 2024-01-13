@@ -1,0 +1,28 @@
+{
+  "unversionedId": "mapping/base/naming-strategy",
+  "id": "mapping/base/naming-strategy",
+  "title": "Naming Strategy",
+  "description": "Naming Strategy Interface",
+  "source": "@site/docs/mapping/base/naming-strategy.mdx",
+  "sourceDirName": "mapping/base",
+  "slug": "/mapping/base/naming-strategy",
+  "permalink": "/jimmer-doc/docs/mapping/base/naming-strategy",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/mapping/base/naming-strategy.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "title": "Naming Strategy"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Many To Many",
+    "permalink": "/jimmer-doc/docs/mapping/base/association/many-to-many"
+  },
+  "next": {
+    "title": "Real and Fake Foreign Keys",
+    "permalink": "/jimmer-doc/docs/mapping/base/foreignkey"
+  }
+}

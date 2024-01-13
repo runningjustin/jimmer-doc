@@ -1,0 +1,28 @@
+{
+  "unversionedId": "quick-view/dsl/super_qbe",
+  "id": "quick-view/dsl/super_qbe",
+  "title": "超级QBE",
+  "description": "能否更简单",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/quick-view/dsl/super_qbe.mdx",
+  "sourceDirName": "quick-view/dsl",
+  "slug": "/quick-view/dsl/super_qbe",
+  "permalink": "/jimmer-doc/zh/docs/quick-view/dsl/super_qbe",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/quick-view/dsl/super_qbe.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "超级QBE"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "功能介绍",
+    "permalink": "/jimmer-doc/zh/docs/quick-view/dsl/feature"
+  },
+  "next": {
+    "title": "映射篇",
+    "permalink": "/jimmer-doc/zh/docs/mapping/"
+  }
+}

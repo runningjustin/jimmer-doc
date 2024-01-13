@@ -1,0 +1,28 @@
+{
+  "unversionedId": "mapping/base/nullity",
+  "id": "mapping/base/nullity",
+  "title": "可空性",
+  "description": "实体对象属性是否许为null这个问题，Jimmer用非常严格的方式处理。即便对Java开发者而言，也要求如同kotlin开发者一样认知考虑思考每个属性是否允许为null。",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/mapping/base/nullity.mdx",
+  "sourceDirName": "mapping/base",
+  "slug": "/mapping/base/nullity",
+  "permalink": "/jimmer-doc/zh/docs/mapping/base/nullity",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/mapping/base/nullity.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "可空性"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "基础映射",
+    "permalink": "/jimmer-doc/zh/docs/mapping/base/"
+  },
+  "next": {
+    "title": "简单映射",
+    "permalink": "/jimmer-doc/zh/docs/mapping/base/basic"
+  }
+}

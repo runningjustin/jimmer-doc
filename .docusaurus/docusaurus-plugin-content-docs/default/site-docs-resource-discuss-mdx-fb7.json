@@ -1,0 +1,24 @@
+{
+  "unversionedId": "resource/discuss",
+  "id": "resource/discuss",
+  "title": "Discuss",
+  "description": "TODO",
+  "source": "@site/docs/resource/discuss.mdx",
+  "sourceDirName": "resource",
+  "slug": "/resource/discuss",
+  "permalink": "/jimmer-doc/docs/resource/discuss",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/resource/discuss.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "title": "Discuss"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Vedio",
+    "permalink": "/jimmer-doc/docs/resource/vedio"
+  }
+}

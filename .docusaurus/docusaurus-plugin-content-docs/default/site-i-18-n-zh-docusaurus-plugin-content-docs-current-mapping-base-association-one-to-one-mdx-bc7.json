@@ -1,0 +1,28 @@
+{
+  "unversionedId": "mapping/base/association/one-to-one",
+  "id": "mapping/base/association/one-to-one",
+  "title": "一对一",
+  "description": "本通过介绍如何使用@org.babyfish.jimmer.sql.OneToOne注解可以声明一对一关联属性",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/mapping/base/association/one-to-one.mdx",
+  "sourceDirName": "mapping/base/association",
+  "slug": "/mapping/base/association/one-to-one",
+  "permalink": "/jimmer-doc/zh/docs/mapping/base/association/one-to-one",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/mapping/base/association/one-to-one.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "一对一"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "关联映射",
+    "permalink": "/jimmer-doc/zh/docs/mapping/base/association/"
+  },
+  "next": {
+    "title": "多对一",
+    "permalink": "/jimmer-doc/zh/docs/mapping/base/association/many-to-one"
+  }
+}

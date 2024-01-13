@@ -1,0 +1,28 @@
+{
+  "unversionedId": "mutation/delete-statement",
+  "id": "mutation/delete-statement",
+  "title": "Delete Statement",
+  "description": "Basic Usage",
+  "source": "@site/docs/mutation/delete-statement.mdx",
+  "sourceDirName": "mutation",
+  "slug": "/mutation/delete-statement",
+  "permalink": "/jimmer-doc/docs/mutation/delete-statement",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/mutation/delete-statement.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "Delete Statement"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Update Statement",
+    "permalink": "/jimmer-doc/docs/mutation/update-statement"
+  },
+  "next": {
+    "title": "🔥 Save Command",
+    "permalink": "/jimmer-doc/docs/mutation/save-command/"
+  }
+}

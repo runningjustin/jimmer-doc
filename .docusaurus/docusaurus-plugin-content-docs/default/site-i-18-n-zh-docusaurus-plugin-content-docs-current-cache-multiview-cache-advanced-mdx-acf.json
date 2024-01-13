@@ -1,0 +1,28 @@
+{
+  "unversionedId": "cache/multiview-cache/advanced",
+  "id": "cache/multiview-cache/advanced",
+  "title": "更高级的用法",
+  "description": "诉求",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/cache/multiview-cache/advanced.mdx",
+  "sourceDirName": "cache/multiview-cache",
+  "slug": "/cache/multiview-cache/advanced",
+  "permalink": "/jimmer-doc/zh/docs/cache/multiview-cache/advanced",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/cache/multiview-cache/advanced.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "更高级的用法"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "自定义过滤器",
+    "permalink": "/jimmer-doc/zh/docs/cache/multiview-cache/user-filter"
+  },
+  "next": {
+    "title": "缓存未生效的原因",
+    "permalink": "/jimmer-doc/zh/docs/cache/multiview-cache/abandoned-callback"
+  }
+}

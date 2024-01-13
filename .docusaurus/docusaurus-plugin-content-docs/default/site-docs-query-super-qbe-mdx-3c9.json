@@ -1,0 +1,28 @@
+{
+  "unversionedId": "query/super_qbe",
+  "id": "query/super_qbe",
+  "title": "🔥 Super QBE",
+  "description": "Super QBE is a very powerful feature that uses DTO Language to generate parameter types for complex queries and automatically implement query logic.",
+  "source": "@site/docs/query/super_qbe.mdx",
+  "sourceDirName": "query",
+  "slug": "/query/super_qbe",
+  "permalink": "/jimmer-doc/docs/query/super_qbe",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/query/super_qbe.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 14,
+  "frontMatter": {
+    "sidebar_position": 14,
+    "title": "🔥 Super QBE"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Querying Association Tables",
+    "permalink": "/jimmer-doc/docs/query/associations"
+  },
+  "next": {
+    "title": "Modification",
+    "permalink": "/jimmer-doc/docs/mutation/"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "mutation/trigger",
+  "id": "mutation/trigger",
+  "title": "🔥 Trigger",
+  "description": "Jimmer supports triggers that allow users to listen for database changes.",
+  "source": "@site/docs/mutation/trigger.mdx",
+  "sourceDirName": "mutation",
+  "slug": "/mutation/trigger",
+  "permalink": "/jimmer-doc/docs/mutation/trigger",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/mutation/trigger.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7,
+    "title": "🔥 Trigger"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Interceptor before save",
+    "permalink": "/jimmer-doc/docs/mutation/draft-interceptor"
+  },
+  "next": {
+    "title": "🔥 Cache",
+    "permalink": "/jimmer-doc/docs/cache/"
+  }
+}

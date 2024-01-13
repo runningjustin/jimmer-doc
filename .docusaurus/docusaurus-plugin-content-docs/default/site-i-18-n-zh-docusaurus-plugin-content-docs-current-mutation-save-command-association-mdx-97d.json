@@ -1,0 +1,28 @@
+{
+  "unversionedId": "mutation/save-command/association",
+  "id": "mutation/save-command/association",
+  "title": "保存关联",
+  "description": "关联类型",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/mutation/save-command/association.mdx",
+  "sourceDirName": "mutation/save-command",
+  "slug": "/mutation/save-command/association",
+  "permalink": "/jimmer-doc/zh/docs/mutation/save-command/association",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/mutation/save-command/association.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "title": "保存关联"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "不完整对象",
+    "permalink": "/jimmer-doc/zh/docs/mutation/save-command/incomplete"
+  },
+  "next": {
+    "title": "脱钩操作",
+    "permalink": "/jimmer-doc/zh/docs/mutation/save-command/dissociation"
+  }
+}

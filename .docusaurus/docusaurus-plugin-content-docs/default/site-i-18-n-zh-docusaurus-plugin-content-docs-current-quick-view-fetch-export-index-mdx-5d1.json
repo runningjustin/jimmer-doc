@@ -1,0 +1,28 @@
+{
+  "unversionedId": "quick-view/fetch/export/index",
+  "id": "quick-view/fetch/export/index",
+  "title": "暴露功能",
+  "description": "通过上一篇的介绍，我们快速预览了Jimmer随心所欲地查询任意形状数据结构的强大能力。",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/quick-view/fetch/export/index.mdx",
+  "sourceDirName": "quick-view/fetch/export",
+  "slug": "/quick-view/fetch/export/",
+  "permalink": "/jimmer-doc/zh/docs/quick-view/fetch/export/",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/quick-view/fetch/export/index.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "暴露功能"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "功能介绍",
+    "permalink": "/jimmer-doc/zh/docs/quick-view/fetch/feature"
+  },
+  "next": {
+    "title": "直接返回实体",
+    "permalink": "/jimmer-doc/zh/docs/quick-view/fetch/export/entity"
+  }
+}

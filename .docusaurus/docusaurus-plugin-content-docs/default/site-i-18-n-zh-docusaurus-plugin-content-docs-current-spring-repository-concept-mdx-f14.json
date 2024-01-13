@@ -1,0 +1,28 @@
+{
+  "unversionedId": "spring/repository/concept",
+  "id": "spring/repository/concept",
+  "title": "定义Repository",
+  "description": "Jimmer整合了spring data，为Java用户和Kotlin用户各自提供了一个Repository基接口。",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/spring/repository/concept.mdx",
+  "sourceDirName": "spring/repository",
+  "slug": "/spring/repository/concept",
+  "permalink": "/jimmer-doc/zh/docs/spring/repository/concept",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/spring/repository/concept.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "定义Repository"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Spring Data风格",
+    "permalink": "/jimmer-doc/zh/docs/spring/repository/"
+  },
+  "next": {
+    "title": "简单查询",
+    "permalink": "/jimmer-doc/zh/docs/spring/repository/abstract"
+  }
+}

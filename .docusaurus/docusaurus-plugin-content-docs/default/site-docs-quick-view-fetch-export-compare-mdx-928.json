@@ -1,0 +1,28 @@
+{
+  "unversionedId": "quick-view/fetch/export/compare",
+  "id": "quick-view/fetch/export/compare",
+  "title": "Comparison",
+  "description": "The comparison is as below:",
+  "source": "@site/docs/quick-view/fetch/export/compare.mdx",
+  "sourceDirName": "quick-view/fetch/export",
+  "slug": "/quick-view/fetch/export/compare",
+  "permalink": "/jimmer-doc/docs/quick-view/fetch/export/compare",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer/tree/main/doc/docs/quick-view/fetch/export/compare.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "title": "Comparison"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Return Output DTO",
+    "permalink": "/jimmer-doc/docs/quick-view/fetch/export/dto"
+  },
+  "next": {
+    "title": "Save Arbitrary Shape",
+    "permalink": "/jimmer-doc/docs/quick-view/save/"
+  }
+}

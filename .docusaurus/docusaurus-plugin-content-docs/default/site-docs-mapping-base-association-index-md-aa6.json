@@ -1,0 +1,28 @@
+{
+  "unversionedId": "mapping/base/association/index",
+  "id": "mapping/base/association/index",
+  "title": "Association Mapping",
+  "description": "Here, you will learn about the most important capability of ORM",
+  "source": "@site/docs/mapping/base/association/index.md",
+  "sourceDirName": "mapping/base/association",
+  "slug": "/mapping/base/association/",
+  "permalink": "/jimmer-doc/docs/mapping/base/association/",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/mapping/base/association/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "Association Mapping"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Simple Mapping",
+    "permalink": "/jimmer-doc/docs/mapping/base/basic"
+  },
+  "next": {
+    "title": "One To One",
+    "permalink": "/jimmer-doc/docs/mapping/base/association/one-to-one"
+  }
+}

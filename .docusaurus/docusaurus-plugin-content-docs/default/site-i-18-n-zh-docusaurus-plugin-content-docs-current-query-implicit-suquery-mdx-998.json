@@ -1,0 +1,28 @@
+{
+  "unversionedId": "query/implicit-suquery",
+  "id": "query/implicit-suquery",
+  "title": "🔥 隐式子查询",
+  "description": "",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/query/implicit-suquery.mdx",
+  "sourceDirName": "query",
+  "slug": "/query/implicit-suquery",
+  "permalink": "/jimmer-doc/zh/docs/query/implicit-suquery",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer/tree/main/doc/docs/query/implicit-suquery.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5,
+    "title": "🔥 隐式子查询"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Kotlin表连接特有功能",
+    "permalink": "/jimmer-doc/zh/docs/query/dynamic-join/kotlin-join"
+  },
+  "next": {
+    "title": "动态排序",
+    "permalink": "/jimmer-doc/zh/docs/query/dynamic-order"
+  }
+}

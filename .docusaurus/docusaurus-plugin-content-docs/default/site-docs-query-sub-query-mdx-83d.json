@@ -1,0 +1,28 @@
+{
+  "unversionedId": "query/sub-query",
+  "id": "query/sub-query",
+  "title": "Subqueries",
+  "description": "Typed Subqueries",
+  "source": "@site/docs/query/sub-query.mdx",
+  "sourceDirName": "query",
+  "slug": "/query/sub-query",
+  "permalink": "/jimmer-doc/docs/query/sub-query",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/query/sub-query.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 11,
+  "frontMatter": {
+    "sidebar_position": 11,
+    "title": "Subqueries"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Native SQL Expressions",
+    "permalink": "/jimmer-doc/docs/query/native-sql"
+  },
+  "next": {
+    "title": "Global Filters",
+    "permalink": "/jimmer-doc/docs/query/global-filter/"
+  }
+}

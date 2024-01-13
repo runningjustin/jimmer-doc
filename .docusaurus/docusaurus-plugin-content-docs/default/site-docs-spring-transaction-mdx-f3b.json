@@ -1,0 +1,28 @@
+{
+  "unversionedId": "spring/transaction",
+  "id": "spring/transaction",
+  "title": "Spring Transaction",
+  "description": "Integrate Spring Transaction",
+  "source": "@site/docs/spring/transaction.mdx",
+  "sourceDirName": "spring",
+  "slug": "/spring/transaction",
+  "permalink": "/jimmer-doc/docs/spring/transaction",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/spring/transaction.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Spring Transaction"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Spring",
+    "permalink": "/jimmer-doc/docs/spring/"
+  },
+  "next": {
+    "title": "Spring Data",
+    "permalink": "/jimmer-doc/docs/spring/repository/"
+  }
+}

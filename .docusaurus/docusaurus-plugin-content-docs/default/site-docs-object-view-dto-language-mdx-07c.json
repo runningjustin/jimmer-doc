@@ -1,0 +1,28 @@
+{
+  "unversionedId": "object/view/dto-language",
+  "id": "object/view/dto-language",
+  "title": "🔥 DTO Language",
+  "description": "1. Concepts",
+  "source": "@site/docs/object/view/dto-language.mdx",
+  "sourceDirName": "object/view",
+  "slug": "/object/view/dto-language",
+  "permalink": "/jimmer-doc/docs/object/view/dto-language",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/object/view/dto-language.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "🔥 DTO Language"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "DTO conversion",
+    "permalink": "/jimmer-doc/docs/object/view/"
+  },
+  "next": {
+    "title": "MapStruct",
+    "permalink": "/jimmer-doc/docs/object/view/mapstruct"
+  }
+}

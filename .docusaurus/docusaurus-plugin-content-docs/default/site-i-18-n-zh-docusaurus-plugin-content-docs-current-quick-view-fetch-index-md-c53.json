@@ -1,0 +1,28 @@
+{
+  "unversionedId": "quick-view/fetch/index",
+  "id": "quick-view/fetch/index",
+  "title": "查询任意形状",
+  "description": "虽然Jimmer实体是强类型的，但也是动态的，可以表达千遍万华的数据结构的形状。",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/quick-view/fetch/index.md",
+  "sourceDirName": "quick-view/fetch",
+  "slug": "/quick-view/fetch/",
+  "permalink": "/jimmer-doc/zh/docs/quick-view/fetch/",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer/tree/main/doc/docs/quick-view/fetch/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "查询任意形状"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "前提",
+    "permalink": "/jimmer-doc/zh/docs/quick-view/precondition"
+  },
+  "next": {
+    "title": "功能介绍",
+    "permalink": "/jimmer-doc/zh/docs/quick-view/fetch/feature"
+  }
+}

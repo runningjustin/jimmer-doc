@@ -1,0 +1,28 @@
+{
+  "unversionedId": "overview/get-started/define-entity",
+  "id": "overview/get-started/define-entity",
+  "title": "定义实体",
+  "description": "和以JPA/Hibernate为代表的ORM不同，Jimmer中的实体定义采用interface，而非class。原因在下一节讨论。",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/overview/get-started/define-entity.mdx",
+  "sourceDirName": "overview/get-started",
+  "slug": "/overview/get-started/define-entity",
+  "permalink": "/jimmer-doc/zh/docs/overview/get-started/define-entity",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/overview/get-started/define-entity.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "定义实体"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "创建数据库",
+    "permalink": "/jimmer-doc/zh/docs/overview/get-started/create-database"
+  },
+  "next": {
+    "title": "生成代码",
+    "permalink": "/jimmer-doc/zh/docs/overview/get-started/generate-code"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "cache/consistency",
+  "id": "cache/consistency",
+  "title": "Cache Consistency",
+  "description": "In previous articles on object cache, association cache, and calculated cache, we have discussed in detail how Jimmer automatically deletes affected caches when data is modified.",
+  "source": "@site/docs/cache/consistency.mdx",
+  "sourceDirName": "cache",
+  "slug": "/cache/consistency",
+  "permalink": "/jimmer-doc/docs/cache/consistency",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/cache/consistency.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "Cache Consistency"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Calculated Cache",
+    "permalink": "/jimmer-doc/docs/cache/cache-type/calculation"
+  },
+  "next": {
+    "title": "Multi-view Cache",
+    "permalink": "/jimmer-doc/docs/cache/multiview-cache/"
+  }
+}

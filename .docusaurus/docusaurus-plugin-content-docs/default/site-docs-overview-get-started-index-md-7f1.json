@@ -1,0 +1,28 @@
+{
+  "unversionedId": "overview/get-started/index",
+  "id": "overview/get-started/index",
+  "title": "Get Started",
+  "description": "",
+  "source": "@site/docs/overview/get-started/index.md",
+  "sourceDirName": "overview/get-started",
+  "slug": "/overview/get-started/",
+  "permalink": "/jimmer-doc/docs/overview/get-started/",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/overview/get-started/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "title": "Get Started"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Example(Fastest learning way)",
+    "permalink": "/jimmer-doc/docs/overview/standard-demo"
+  },
+  "next": {
+    "title": "Create a Project",
+    "permalink": "/jimmer-doc/docs/overview/get-started/create-project"
+  }
+}

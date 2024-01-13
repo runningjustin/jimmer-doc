@@ -1,0 +1,28 @@
+{
+  "unversionedId": "mutation/save-command/incomplete",
+  "id": "mutation/save-command/incomplete",
+  "title": "不完整对象",
+  "description": "保存指令的参数是动态对象，如果动态只有部分属性被指定了，那么该对象就是一个不完整对象。",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/mutation/save-command/incomplete.mdx",
+  "sourceDirName": "mutation/save-command",
+  "slug": "/mutation/save-command/incomplete",
+  "permalink": "/jimmer-doc/zh/docs/mutation/save-command/incomplete",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/mutation/save-command/incomplete.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "不完整对象"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "保存模式",
+    "permalink": "/jimmer-doc/zh/docs/mutation/save-command/save-mode"
+  },
+  "next": {
+    "title": "保存关联",
+    "permalink": "/jimmer-doc/zh/docs/mutation/save-command/association"
+  }
+}

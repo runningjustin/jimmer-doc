@@ -1,0 +1,28 @@
+{
+  "unversionedId": "configuration/batch-size",
+  "id": "configuration/batch-size",
+  "title": "批量控制",
+  "description": "SqlClient支持两个配置：DefaultBatchSize和DefaultListBatchSize。如果不配置，默认值为128和16。",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/configuration/batch-size.mdx",
+  "sourceDirName": "configuration",
+  "slug": "/configuration/batch-size",
+  "permalink": "/jimmer-doc/zh/docs/configuration/batch-size",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/configuration/batch-size.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "批量控制"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Connection Manager",
+    "permalink": "/jimmer-doc/zh/docs/configuration/connection-manager"
+  },
+  "next": {
+    "title": "SQL日志",
+    "permalink": "/jimmer-doc/zh/docs/configuration/sql-log"
+  }
+}

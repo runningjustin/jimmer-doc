@@ -1,0 +1,28 @@
+{
+  "unversionedId": "configuration/database-validation",
+  "id": "configuration/database-validation",
+  "title": "Database Validation",
+  "description": "Function Introduction",
+  "source": "@site/docs/configuration/database-validation.mdx",
+  "sourceDirName": "configuration",
+  "slug": "/configuration/database-validation",
+  "permalink": "/jimmer-doc/docs/configuration/database-validation",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/configuration/database-validation.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8,
+    "title": "Database Validation"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Trigger Type",
+    "permalink": "/jimmer-doc/docs/configuration/trigger-type"
+  },
+  "next": {
+    "title": "Microservice",
+    "permalink": "/jimmer-doc/docs/configuration/micro-service"
+  }
+}

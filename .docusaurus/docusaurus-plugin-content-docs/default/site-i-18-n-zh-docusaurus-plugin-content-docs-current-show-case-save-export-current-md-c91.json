@@ -1,0 +1,28 @@
+{
+  "unversionedId": "show-case/save/export/current",
+  "id": "show-case/save/export/current",
+  "title": "Save Aggregate Root",
+  "description": "",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/show-case/save/export/current.md",
+  "sourceDirName": "show-case/save/export",
+  "slug": "/show-case/save/export/current",
+  "permalink": "/jimmer-doc/zh/docs/show-case/save/export/current",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer/tree/main/doc/docs/show-case/save/export/current.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Save Aggregate Root"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "暴露功能",
+    "permalink": "/jimmer-doc/zh/docs/show-case/save/export/"
+  },
+  "next": {
+    "title": "Save Short association",
+    "permalink": "/jimmer-doc/zh/docs/show-case/save/export/short"
+  }
+}

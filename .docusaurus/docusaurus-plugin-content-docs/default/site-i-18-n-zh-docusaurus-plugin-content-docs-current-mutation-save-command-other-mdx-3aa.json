@@ -1,0 +1,28 @@
+{
+  "unversionedId": "mutation/save-command/other",
+  "id": "mutation/save-command/other",
+  "title": "其它功能",
+  "description": "保存指令返回结果",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/mutation/save-command/other.mdx",
+  "sourceDirName": "mutation/save-command",
+  "slug": "/mutation/save-command/other",
+  "permalink": "/jimmer-doc/zh/docs/mutation/save-command/other",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/mutation/save-command/other.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8,
+    "title": "其它功能"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "乐观锁和悲观锁",
+    "permalink": "/jimmer-doc/zh/docs/mutation/save-command/lock"
+  },
+  "next": {
+    "title": "Input DTO",
+    "permalink": "/jimmer-doc/zh/docs/mutation/save-command/input-dto/"
+  }
+}

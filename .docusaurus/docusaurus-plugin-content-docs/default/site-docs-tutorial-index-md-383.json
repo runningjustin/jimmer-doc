@@ -1,0 +1,20 @@
+{
+  "unversionedId": "tutorial/index",
+  "id": "tutorial/index",
+  "title": "index",
+  "description": "",
+  "source": "@site/docs/tutorial/index.md",
+  "sourceDirName": "tutorial",
+  "slug": "/tutorial/",
+  "permalink": "/jimmer-doc/zh/docs/tutorial/",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer/tree/main/doc/docs/tutorial/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "讨论",
+    "permalink": "/jimmer-doc/zh/docs/resource/discuss"
+  }
+}

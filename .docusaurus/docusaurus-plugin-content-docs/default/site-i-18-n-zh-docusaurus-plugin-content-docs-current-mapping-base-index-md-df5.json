@@ -1,0 +1,28 @@
+{
+  "unversionedId": "mapping/base/index",
+  "id": "mapping/base/index",
+  "title": "基础映射",
+  "description": "在这一系列文章中，我们会介绍基本映射，包括可空性、真假外间、实体、id和关联关系。",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/mapping/base/index.md",
+  "sourceDirName": "mapping/base",
+  "slug": "/mapping/base/",
+  "permalink": "/jimmer-doc/zh/docs/mapping/base/",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/mapping/base/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "基础映射"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "映射篇",
+    "permalink": "/jimmer-doc/zh/docs/mapping/"
+  },
+  "next": {
+    "title": "可空性",
+    "permalink": "/jimmer-doc/zh/docs/mapping/base/nullity"
+  }
+}

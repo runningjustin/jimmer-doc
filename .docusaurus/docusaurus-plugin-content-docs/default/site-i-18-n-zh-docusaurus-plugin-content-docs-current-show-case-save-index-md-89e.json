@@ -1,0 +1,28 @@
+{
+  "unversionedId": "show-case/save/index",
+  "id": "show-case/save/index",
+  "title": "保存任意形状",
+  "description": "",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/show-case/save/index.md",
+  "sourceDirName": "show-case/save",
+  "slug": "/show-case/save/",
+  "permalink": "/jimmer-doc/zh/docs/show-case/save/",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer/tree/main/doc/docs/show-case/save/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "保存任意形状"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "返回输出DTO",
+    "permalink": "/jimmer-doc/zh/docs/show-case/fetch/export/dto"
+  },
+  "next": {
+    "title": "功能",
+    "permalink": "/jimmer-doc/zh/docs/show-case/save/feature"
+  }
+}

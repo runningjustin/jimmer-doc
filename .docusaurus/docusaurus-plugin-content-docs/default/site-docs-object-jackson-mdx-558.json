@@ -1,0 +1,28 @@
+{
+  "unversionedId": "object/jackson",
+  "id": "object/jackson",
+  "title": "Working with Jackson",
+  "description": "Jimmer objects are dynamic and not all properties of an object need to be initialized. It allows missing some properties.",
+  "source": "@site/docs/object/jackson.mdx",
+  "sourceDirName": "object",
+  "slug": "/object/jackson",
+  "permalink": "/jimmer-doc/docs/object/jackson",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/object/jackson.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "title": "Working with Jackson"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Draft",
+    "permalink": "/jimmer-doc/docs/object/draft"
+  },
+  "next": {
+    "title": "DTO conversion",
+    "permalink": "/jimmer-doc/docs/object/view/"
+  }
+}

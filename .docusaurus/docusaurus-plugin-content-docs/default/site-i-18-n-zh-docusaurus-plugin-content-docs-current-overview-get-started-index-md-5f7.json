@@ -1,0 +1,28 @@
+{
+  "unversionedId": "overview/get-started/index",
+  "id": "overview/get-started/index",
+  "title": "快速上手",
+  "description": "在这一系列文章中，我们会介绍如果从头创建自己的Jimmer项目。",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/overview/get-started/index.md",
+  "sourceDirName": "overview/get-started",
+  "slug": "/overview/get-started/",
+  "permalink": "/jimmer-doc/zh/docs/overview/get-started/",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/overview/get-started/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "title": "快速上手"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "例子(最快学习方法)",
+    "permalink": "/jimmer-doc/zh/docs/overview/standard-demo"
+  },
+  "next": {
+    "title": "创建项目",
+    "permalink": "/jimmer-doc/zh/docs/overview/get-started/create-project"
+  }
+}

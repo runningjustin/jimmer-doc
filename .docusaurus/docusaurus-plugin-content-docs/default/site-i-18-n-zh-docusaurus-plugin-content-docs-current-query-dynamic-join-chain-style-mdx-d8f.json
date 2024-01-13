@@ -1,0 +1,28 @@
+{
+  "unversionedId": "query/dynamic-join/chain-style",
+  "id": "query/dynamic-join/chain-style",
+  "title": "链式关联路径",
+  "description": "Jimmer是如何解决动态连接问题将在后续文档中讨论，本文先介绍Jimmer中表连接的风格。",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/query/dynamic-join/chain-style.mdx",
+  "sourceDirName": "query/dynamic-join",
+  "slug": "/query/dynamic-join/chain-style",
+  "permalink": "/jimmer-doc/zh/docs/query/dynamic-join/chain-style",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/query/dynamic-join/chain-style.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "链式关联路径"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "其他解决方案的问题",
+    "permalink": "/jimmer-doc/zh/docs/query/dynamic-join/problem"
+  },
+  "next": {
+    "title": "合并冲突连接",
+    "permalink": "/jimmer-doc/zh/docs/query/dynamic-join/merge"
+  }
+}

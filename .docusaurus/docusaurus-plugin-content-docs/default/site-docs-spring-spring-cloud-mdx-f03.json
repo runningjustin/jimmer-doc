@@ -1,0 +1,28 @@
+{
+  "unversionedId": "spring/spring-cloud",
+  "id": "spring/spring-cloud",
+  "title": "Remote Associations",
+  "description": "Remote associations are Jimmer's first thoughts on microservice architecture.",
+  "source": "@site/docs/spring/spring-cloud.mdx",
+  "sourceDirName": "spring",
+  "slug": "/spring/spring-cloud",
+  "permalink": "/jimmer-doc/docs/spring/spring-cloud",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/spring/spring-cloud.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "Remote Associations"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Query DTO",
+    "permalink": "/jimmer-doc/docs/spring/repository/dto"
+  },
+  "next": {
+    "title": "Appendix",
+    "permalink": "/jimmer-doc/docs/spring/appendix"
+  }
+}

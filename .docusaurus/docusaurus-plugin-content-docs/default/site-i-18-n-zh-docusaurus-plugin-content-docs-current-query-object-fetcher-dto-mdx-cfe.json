@@ -1,0 +1,28 @@
+{
+  "unversionedId": "query/object-fetcher/dto",
+  "id": "query/object-fetcher/dto",
+  "title": "DTO查询",
+  "description": "之前我们介绍了，利用对象抓取器灵活控制被查询数据结构的形状。",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/query/object-fetcher/dto.mdx",
+  "sourceDirName": "query/object-fetcher",
+  "slug": "/query/object-fetcher/dto",
+  "permalink": "/jimmer-doc/zh/docs/query/object-fetcher/dto",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/query/object-fetcher/dto.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6,
+    "title": "DTO查询"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "视图属性",
+    "permalink": "/jimmer-doc/zh/docs/query/object-fetcher/view"
+  },
+  "next": {
+    "title": "和Spring Data协同",
+    "permalink": "/jimmer-doc/zh/docs/query/object-fetcher/spring-data"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "configuration/default-enum-strategy",
+  "id": "configuration/default-enum-strategy",
+  "title": "默认枚举策略",
+  "description": "该配置在映射篇/高级映射/Enum映射/不明确使用@EnumType中被阐述。",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/configuration/default-enum-strategy.md",
+  "sourceDirName": "configuration",
+  "slug": "/configuration/default-enum-strategy",
+  "permalink": "/jimmer-doc/zh/docs/configuration/default-enum-strategy",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/configuration/default-enum-strategy.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5,
+    "title": "默认枚举策略"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SQL日志",
+    "permalink": "/jimmer-doc/zh/docs/configuration/sql-log"
+  },
+  "next": {
+    "title": "默认数据库名字策略",
+    "permalink": "/jimmer-doc/zh/docs/configuration/default-database-stragegy"
+  }
+}

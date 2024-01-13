@@ -1,0 +1,28 @@
+{
+  "unversionedId": "query/dynamic-order",
+  "id": "query/dynamic-order",
+  "title": "动态排序",
+  "description": "静态排序",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/query/dynamic-order.mdx",
+  "sourceDirName": "query",
+  "slug": "/query/dynamic-order",
+  "permalink": "/jimmer-doc/zh/docs/query/dynamic-order",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/query/dynamic-order.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6,
+    "title": "动态排序"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🔥 隐式子查询",
+    "permalink": "/jimmer-doc/zh/docs/query/implicit-subquery"
+  },
+  "next": {
+    "title": "聚合和分组",
+    "permalink": "/jimmer-doc/zh/docs/query/group"
+  }
+}

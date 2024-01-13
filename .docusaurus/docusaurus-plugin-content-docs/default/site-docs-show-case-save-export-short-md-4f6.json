@@ -1,0 +1,28 @@
+{
+  "unversionedId": "show-case/save/export/short",
+  "id": "show-case/save/export/short",
+  "title": "Save Short Association",
+  "description": "",
+  "source": "@site/docs/show-case/save/export/short.md",
+  "sourceDirName": "show-case/save/export",
+  "slug": "/show-case/save/export/short",
+  "permalink": "/jimmer-doc/zh/docs/show-case/save/export/short",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer/tree/main/doc/docs/show-case/save/export/short.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "Save Short Association"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Save Aggregate Root",
+    "permalink": "/jimmer-doc/zh/docs/show-case/save/export/root"
+  },
+  "next": {
+    "title": "Save Long Associations",
+    "permalink": "/jimmer-doc/zh/docs/show-case/save/export/long"
+  }
+}

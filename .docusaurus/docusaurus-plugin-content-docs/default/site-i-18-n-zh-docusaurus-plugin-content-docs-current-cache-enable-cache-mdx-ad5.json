@@ -1,0 +1,28 @@
+{
+  "unversionedId": "cache/enable-cache",
+  "id": "cache/enable-cache",
+  "title": "启用缓存",
+  "description": "CacheFactory接口",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/cache/enable-cache.mdx",
+  "sourceDirName": "cache",
+  "slug": "/cache/enable-cache",
+  "permalink": "/jimmer-doc/zh/docs/cache/enable-cache",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/cache/enable-cache.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "启用缓存"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "缓存篇",
+    "permalink": "/jimmer-doc/zh/docs/cache/"
+  },
+  "next": {
+    "title": "缓存类型",
+    "permalink": "/jimmer-doc/zh/docs/cache/cache-type/"
+  }
+}

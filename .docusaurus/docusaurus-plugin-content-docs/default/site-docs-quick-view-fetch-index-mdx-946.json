@@ -1,0 +1,28 @@
+{
+  "unversionedId": "quick-view/fetch/index",
+  "id": "quick-view/fetch/index",
+  "title": "Query Arbitrary Shape",
+  "description": "Basic Concepts",
+  "source": "@site/docs/quick-view/fetch/index.mdx",
+  "sourceDirName": "quick-view/fetch",
+  "slug": "/quick-view/fetch/",
+  "permalink": "/jimmer-doc/docs/quick-view/fetch/",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/quick-view/fetch/index.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "Query Arbitrary Shape"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Precondition",
+    "permalink": "/jimmer-doc/docs/quick-view/precondition"
+  },
+  "next": {
+    "title": "Feature Introduction",
+    "permalink": "/jimmer-doc/docs/quick-view/fetch/feature"
+  }
+}

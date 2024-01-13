@@ -1,0 +1,28 @@
+{
+  "unversionedId": "mapping/advanced/embedded",
+  "id": "mapping/advanced/embedded",
+  "title": "Embedded Properties",
+  "description": "Embedded properties (Composite properites) merge multiple columns in the database into an integral whole, map them to a non-entity custom type, and then use this custom property to declare a property for the entity.",
+  "source": "@site/docs/mapping/advanced/embedded.mdx",
+  "sourceDirName": "mapping/advanced",
+  "slug": "/mapping/advanced/embedded",
+  "permalink": "/jimmer-doc/docs/mapping/advanced/embedded",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/mapping/advanced/embedded.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Embedded Properties"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Advanced mapping",
+    "permalink": "/jimmer-doc/docs/mapping/advanced/"
+  },
+  "next": {
+    "title": "MappedSuperclass",
+    "permalink": "/jimmer-doc/docs/mapping/advanced/mapped-super-class"
+  }
+}

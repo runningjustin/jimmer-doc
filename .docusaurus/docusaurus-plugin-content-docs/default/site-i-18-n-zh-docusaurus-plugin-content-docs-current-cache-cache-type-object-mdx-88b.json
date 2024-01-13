@@ -1,0 +1,28 @@
+{
+  "unversionedId": "cache/cache-type/object",
+  "id": "cache/cache-type/object",
+  "title": "对象缓存",
+  "description": "所谓对象缓存，指把id映射为实体对象。这是最简单最基础的缓存",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/cache/cache-type/object.mdx",
+  "sourceDirName": "cache/cache-type",
+  "slug": "/cache/cache-type/object",
+  "permalink": "/jimmer-doc/zh/docs/cache/cache-type/object",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/cache/cache-type/object.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "对象缓存"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "缓存类型",
+    "permalink": "/jimmer-doc/zh/docs/cache/cache-type/"
+  },
+  "next": {
+    "title": "关联缓存",
+    "permalink": "/jimmer-doc/zh/docs/cache/cache-type/association"
+  }
+}

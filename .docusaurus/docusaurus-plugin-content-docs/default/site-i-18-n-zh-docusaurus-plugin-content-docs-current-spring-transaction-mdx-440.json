@@ -1,0 +1,28 @@
+{
+  "unversionedId": "spring/transaction",
+  "id": "spring/transaction",
+  "title": "整合Spring事务",
+  "description": "整合Spring事务",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/spring/transaction.mdx",
+  "sourceDirName": "spring",
+  "slug": "/spring/transaction",
+  "permalink": "/jimmer-doc/zh/docs/spring/transaction",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/spring/transaction.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "整合Spring事务"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Spring篇",
+    "permalink": "/jimmer-doc/zh/docs/spring/"
+  },
+  "next": {
+    "title": "Spring Data风格",
+    "permalink": "/jimmer-doc/zh/docs/spring/repository/"
+  }
+}

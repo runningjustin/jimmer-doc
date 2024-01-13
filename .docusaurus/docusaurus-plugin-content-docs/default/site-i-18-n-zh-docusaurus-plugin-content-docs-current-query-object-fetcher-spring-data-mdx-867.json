@@ -1,0 +1,28 @@
+{
+  "unversionedId": "query/object-fetcher/spring-data",
+  "id": "query/object-fetcher/spring-data",
+  "title": "和Spring Data协同",
+  "description": "我们已经介绍了，对象抓取器可以灵活控制被查询数据结构的形状，这为业务系统构建带来了巨额大的灵活性。",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/query/object-fetcher/spring-data.mdx",
+  "sourceDirName": "query/object-fetcher",
+  "slug": "/query/object-fetcher/spring-data",
+  "permalink": "/jimmer-doc/zh/docs/query/object-fetcher/spring-data",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/query/object-fetcher/spring-data.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7,
+    "title": "和Spring Data协同"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "DTO查询",
+    "permalink": "/jimmer-doc/zh/docs/query/object-fetcher/dto"
+  },
+  "next": {
+    "title": "动态筛选",
+    "permalink": "/jimmer-doc/zh/docs/query/dynamic-where"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "mutation/save-command/input-dto/mapstruct",
+  "id": "mutation/save-command/input-dto/mapstruct",
+  "title": "Using MapStruct",
+  "description": "Not recommended for Kotlin.",
+  "source": "@site/docs/mutation/save-command/input-dto/mapstruct.mdx",
+  "sourceDirName": "mutation/save-command/input-dto",
+  "slug": "/mutation/save-command/input-dto/mapstruct",
+  "permalink": "/jimmer-doc/docs/mutation/save-command/input-dto/mapstruct",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/mutation/save-command/input-dto/mapstruct.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "title": "Using MapStruct"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Using DTO Language",
+    "permalink": "/jimmer-doc/docs/mutation/save-command/input-dto/dto-lang"
+  },
+  "next": {
+    "title": "Delete Command",
+    "permalink": "/jimmer-doc/docs/mutation/delete-command"
+  }
+}

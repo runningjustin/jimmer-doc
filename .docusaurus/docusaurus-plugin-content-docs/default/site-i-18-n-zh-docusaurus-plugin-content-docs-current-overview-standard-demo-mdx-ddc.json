@@ -1,0 +1,28 @@
+{
+  "unversionedId": "overview/standard-demo",
+  "id": "overview/standard-demo",
+  "title": "例子(最快学习方法)",
+  "description": "直接运行框架附带的例子，是熟悉Jimmer最高效的方法。",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/overview/standard-demo.mdx",
+  "sourceDirName": "overview",
+  "slug": "/overview/standard-demo",
+  "permalink": "/jimmer-doc/zh/docs/overview/standard-demo",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/overview/standard-demo.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "例子(最快学习方法)"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "不一样的实体",
+    "permalink": "/jimmer-doc/zh/docs/overview/entity"
+  },
+  "next": {
+    "title": "快速上手",
+    "permalink": "/jimmer-doc/zh/docs/overview/get-started/"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "configuration/index",
+  "id": "configuration/index",
+  "title": "配置篇",
+  "description": "这个章节介绍Jimmer所支持的全局配置。",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/configuration/index.md",
+  "sourceDirName": "configuration",
+  "slug": "/configuration/",
+  "permalink": "/jimmer-doc/zh/docs/configuration/",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/configuration/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "sidebar_position": 9,
+    "title": "配置篇"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "附录",
+    "permalink": "/jimmer-doc/zh/docs/spring/appendix"
+  },
+  "next": {
+    "title": "方言",
+    "permalink": "/jimmer-doc/zh/docs/configuration/dialect"
+  }
+}

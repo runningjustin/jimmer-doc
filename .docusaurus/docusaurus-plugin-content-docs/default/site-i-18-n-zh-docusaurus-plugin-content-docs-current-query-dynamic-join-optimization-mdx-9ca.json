@@ -1,0 +1,28 @@
+{
+  "unversionedId": "query/dynamic-join/optimization",
+  "id": "query/dynamic-join/optimization",
+  "title": "优化不必要连接",
+  "description": "使用方法",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/query/dynamic-join/optimization.mdx",
+  "sourceDirName": "query/dynamic-join",
+  "slug": "/query/dynamic-join/optimization",
+  "permalink": "/jimmer-doc/zh/docs/query/dynamic-join/optimization",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/query/dynamic-join/optimization.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "title": "优化不必要连接"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "合并冲突连接",
+    "permalink": "/jimmer-doc/zh/docs/query/dynamic-join/merge"
+  },
+  "next": {
+    "title": "分页安全性",
+    "permalink": "/jimmer-doc/zh/docs/query/dynamic-join/table-ex"
+  }
+}

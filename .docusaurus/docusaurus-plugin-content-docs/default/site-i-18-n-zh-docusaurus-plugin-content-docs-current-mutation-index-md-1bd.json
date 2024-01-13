@@ -1,0 +1,28 @@
+{
+  "unversionedId": "mutation/index",
+  "id": "mutation/index",
+  "title": "修改篇",
+  "description": "在这个章节中，我们会介绍Jimmer中修改数据库相关的所有功能。",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/mutation/index.md",
+  "sourceDirName": "mutation",
+  "slug": "/mutation/",
+  "permalink": "/jimmer-doc/zh/docs/mutation/",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/mutation/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5,
+    "title": "修改篇"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🔥 超级QBE查询",
+    "permalink": "/jimmer-doc/zh/docs/query/super_qbe"
+  },
+  "next": {
+    "title": "修改语句",
+    "permalink": "/jimmer-doc/zh/docs/mutation/update-statement"
+  }
+}

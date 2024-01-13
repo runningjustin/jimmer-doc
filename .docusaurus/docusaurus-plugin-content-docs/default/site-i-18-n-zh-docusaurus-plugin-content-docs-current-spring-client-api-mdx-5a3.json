@@ -1,0 +1,28 @@
+{
+  "unversionedId": "spring/client/api",
+  "id": "spring/client/api",
+  "title": "生成前端API",
+  "description": "基本概念",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/spring/client/api.mdx",
+  "sourceDirName": "spring/client",
+  "slug": "/spring/client/api",
+  "permalink": "/jimmer-doc/zh/docs/spring/client/api",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer/tree/main/doc/docs/spring/client/api.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "生成前端API"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🔥 前后端免对接",
+    "permalink": "/jimmer-doc/zh/docs/spring/client/"
+  },
+  "next": {
+    "title": "生成前端异常",
+    "permalink": "/jimmer-doc/zh/docs/spring/client/error"
+  }
+}

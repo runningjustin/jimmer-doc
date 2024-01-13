@@ -1,0 +1,28 @@
+{
+  "unversionedId": "cache/cache-type/association",
+  "id": "cache/cache-type/association",
+  "title": "关联缓存",
+  "description": "所谓关联缓存，指把当前对象id映射为关联对象id或集合。",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/cache/cache-type/association.mdx",
+  "sourceDirName": "cache/cache-type",
+  "slug": "/cache/cache-type/association",
+  "permalink": "/jimmer-doc/zh/docs/cache/cache-type/association",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/cache/cache-type/association.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "关联缓存"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "对象缓存",
+    "permalink": "/jimmer-doc/zh/docs/cache/cache-type/object"
+  },
+  "next": {
+    "title": "计算缓存",
+    "permalink": "/jimmer-doc/zh/docs/cache/cache-type/calculation"
+  }
+}

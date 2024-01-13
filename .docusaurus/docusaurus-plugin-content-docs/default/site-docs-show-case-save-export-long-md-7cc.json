@@ -1,0 +1,28 @@
+{
+  "unversionedId": "show-case/save/export/long",
+  "id": "show-case/save/export/long",
+  "title": "Save Long Associations",
+  "description": "",
+  "source": "@site/docs/show-case/save/export/long.md",
+  "sourceDirName": "show-case/save/export",
+  "slug": "/show-case/save/export/long",
+  "permalink": "/jimmer-doc/zh/docs/show-case/save/export/long",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer/tree/main/doc/docs/show-case/save/export/long.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "Save Long Associations"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Save Short Association",
+    "permalink": "/jimmer-doc/zh/docs/show-case/save/export/short"
+  },
+  "next": {
+    "title": "Arbitrarily dynamic queries",
+    "permalink": "/jimmer-doc/zh/docs/show-case/dsl/"
+  }
+}

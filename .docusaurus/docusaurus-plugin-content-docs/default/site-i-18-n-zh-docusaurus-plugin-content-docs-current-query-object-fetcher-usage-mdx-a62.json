@@ -1,0 +1,28 @@
+{
+  "unversionedId": "query/object-fetcher/usage",
+  "id": "query/object-fetcher/usage",
+  "title": "基本用法",
+  "description": "引入对象抓取器的原因",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/query/object-fetcher/usage.mdx",
+  "sourceDirName": "query/object-fetcher",
+  "slug": "/query/object-fetcher/usage",
+  "permalink": "/jimmer-doc/zh/docs/query/object-fetcher/usage",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/query/object-fetcher/usage.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "基本用法"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🔥 对象抓取器",
+    "permalink": "/jimmer-doc/zh/docs/query/object-fetcher/"
+  },
+  "next": {
+    "title": "普通属性",
+    "permalink": "/jimmer-doc/zh/docs/query/object-fetcher/props"
+  }
+}

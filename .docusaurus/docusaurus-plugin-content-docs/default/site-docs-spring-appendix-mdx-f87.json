@@ -1,0 +1,28 @@
+{
+  "unversionedId": "spring/appendix",
+  "id": "spring/appendix",
+  "title": "Appendix",
+  "description": "Jimmer has many configurations, some of which can be configured in Spring Boot's application.yml or application.properties. Such as:",
+  "source": "@site/docs/spring/appendix.mdx",
+  "sourceDirName": "spring",
+  "slug": "/spring/appendix",
+  "permalink": "/jimmer-doc/docs/spring/appendix",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/spring/appendix.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "title": "Appendix"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Remote Associations",
+    "permalink": "/jimmer-doc/docs/spring/spring-cloud"
+  },
+  "next": {
+    "title": "Configuration",
+    "permalink": "/jimmer-doc/docs/configuration/"
+  }
+}

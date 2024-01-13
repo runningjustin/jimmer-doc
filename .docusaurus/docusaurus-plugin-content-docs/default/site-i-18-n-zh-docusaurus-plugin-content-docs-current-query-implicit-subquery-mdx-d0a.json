@@ -1,0 +1,28 @@
+{
+  "unversionedId": "query/implicit-subquery",
+  "id": "query/implicit-subquery",
+  "title": "🔥 隐式子查询",
+  "description": "集合 (一对多或多对多) 关联往往导致需要在查询中高频使用子查询，隐式子查询对这类子查询给予了极大的简化。",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/query/implicit-subquery.mdx",
+  "sourceDirName": "query",
+  "slug": "/query/implicit-subquery",
+  "permalink": "/jimmer-doc/zh/docs/query/implicit-subquery",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/query/implicit-subquery.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5,
+    "title": "🔥 隐式子查询"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Kotlin表连接特有功能",
+    "permalink": "/jimmer-doc/zh/docs/query/dynamic-join/kotlin-join"
+  },
+  "next": {
+    "title": "动态排序",
+    "permalink": "/jimmer-doc/zh/docs/query/dynamic-order"
+  }
+}

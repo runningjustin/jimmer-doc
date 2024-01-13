@@ -1,0 +1,28 @@
+{
+  "unversionedId": "mapping/advanced/index",
+  "id": "mapping/advanced/index",
+  "title": "进阶映射",
+  "description": "在这一系列文章中，我们会介绍进阶映射。",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/mapping/advanced/index.md",
+  "sourceDirName": "mapping/advanced",
+  "slug": "/mapping/advanced/",
+  "permalink": "/jimmer-doc/zh/docs/mapping/advanced/",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/mapping/advanced/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "进阶映射"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "真假外键",
+    "permalink": "/jimmer-doc/zh/docs/mapping/base/foreignkey"
+  },
+  "next": {
+    "title": "复合字段",
+    "permalink": "/jimmer-doc/zh/docs/mapping/advanced/embedded"
+  }
+}

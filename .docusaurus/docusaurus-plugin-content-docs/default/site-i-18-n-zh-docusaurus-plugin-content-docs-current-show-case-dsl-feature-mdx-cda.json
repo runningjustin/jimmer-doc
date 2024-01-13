@@ -1,0 +1,28 @@
+{
+  "unversionedId": "show-case/dsl/feature",
+  "id": "show-case/dsl/feature",
+  "title": "功能",
+  "description": "",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/show-case/dsl/feature.mdx",
+  "sourceDirName": "show-case/dsl",
+  "slug": "/show-case/dsl/feature",
+  "permalink": "/jimmer-doc/zh/docs/show-case/dsl/feature",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer/tree/main/doc/docs/show-case/dsl/feature.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "功能"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "任意动态查询",
+    "permalink": "/jimmer-doc/zh/docs/show-case/dsl/"
+  },
+  "next": {
+    "title": "超级QBE",
+    "permalink": "/jimmer-doc/zh/docs/show-case/dsl/super_qbe"
+  }
+}

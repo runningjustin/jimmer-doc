@@ -1,0 +1,28 @@
+{
+  "unversionedId": "quick-view/fetch/feature",
+  "id": "quick-view/fetch/feature",
+  "title": "功能介绍",
+  "description": "最简单的Repository",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/quick-view/fetch/feature.mdx",
+  "sourceDirName": "quick-view/fetch",
+  "slug": "/quick-view/fetch/feature",
+  "permalink": "/jimmer-doc/zh/docs/quick-view/fetch/feature",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/quick-view/fetch/feature.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "功能介绍"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "查询任意形状",
+    "permalink": "/jimmer-doc/zh/docs/quick-view/fetch/"
+  },
+  "next": {
+    "title": "暴露功能",
+    "permalink": "/jimmer-doc/zh/docs/quick-view/fetch/export/"
+  }
+}

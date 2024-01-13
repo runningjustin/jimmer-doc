@@ -1,0 +1,28 @@
+{
+  "unversionedId": "client/api",
+  "id": "client/api",
+  "title": "生成客户端API",
+  "description": "启用客户端能力",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/client/api.mdx",
+  "sourceDirName": "client",
+  "slug": "/client/api",
+  "permalink": "/jimmer-doc/zh/docs/client/api",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/client/api.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "生成客户端API"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "客户端篇",
+    "permalink": "/jimmer-doc/zh/docs/client/"
+  },
+  "next": {
+    "title": "生成客户异常",
+    "permalink": "/jimmer-doc/zh/docs/client/error"
+  }
+}

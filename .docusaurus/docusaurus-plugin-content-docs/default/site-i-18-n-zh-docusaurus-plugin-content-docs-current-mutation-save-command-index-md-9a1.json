@@ -1,0 +1,28 @@
+{
+  "unversionedId": "mutation/save-command/index",
+  "id": "mutation/save-command/index",
+  "title": "🔥 保存指令",
+  "description": "一句话保存任意复杂的数据结构，自动找出DIFF并修改数据库，类似于React/Vue",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/mutation/save-command/index.md",
+  "sourceDirName": "mutation/save-command",
+  "slug": "/mutation/save-command/",
+  "permalink": "/jimmer-doc/zh/docs/mutation/save-command/",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/mutation/save-command/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "🔥 保存指令"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "删除语句",
+    "permalink": "/jimmer-doc/zh/docs/mutation/delete-statement"
+  },
+  "next": {
+    "title": "基本用法",
+    "permalink": "/jimmer-doc/zh/docs/mutation/save-command/usage"
+  }
+}

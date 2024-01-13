@@ -1,0 +1,28 @@
+{
+  "unversionedId": "client/index",
+  "id": "client/index",
+  "title": "🔥 Client",
+  "description": "",
+  "source": "@site/docs/client/index.md",
+  "sourceDirName": "client",
+  "slug": "/client/",
+  "permalink": "/jimmer-doc/zh/docs/client/",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer/tree/main/doc/docs/client/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5,
+    "title": "🔥 Client"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "缓存未生效的原因",
+    "permalink": "/jimmer-doc/zh/docs/cache/multiview-cache/abandoned-callback"
+  },
+  "next": {
+    "title": "Spring篇",
+    "permalink": "/jimmer-doc/zh/docs/spring/"
+  }
+}

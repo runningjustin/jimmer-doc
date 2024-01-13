@@ -1,0 +1,28 @@
+{
+  "unversionedId": "spring/index",
+  "id": "spring/index",
+  "title": "Spring篇",
+  "description": "Jimmer本身是高度中立的，不和任何容器类框架耦合，但可以轻松和任何容器类框架耦合。",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/spring/index.md",
+  "sourceDirName": "spring",
+  "slug": "/spring/",
+  "permalink": "/jimmer-doc/zh/docs/spring/",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/spring/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8,
+    "title": "Spring篇"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "生成客户异常",
+    "permalink": "/jimmer-doc/zh/docs/client/error"
+  },
+  "next": {
+    "title": "整合Spring事务",
+    "permalink": "/jimmer-doc/zh/docs/spring/transaction"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "quick-view/save/export/index",
+  "id": "quick-view/save/export/index",
+  "title": "Exposing Features",
+  "description": "In Save Any Shape/Feature Introduction, we introduced the powerful data saving capability of Jimmer,",
+  "source": "@site/docs/quick-view/save/export/index.md",
+  "sourceDirName": "quick-view/save/export",
+  "slug": "/quick-view/save/export/",
+  "permalink": "/jimmer-doc/docs/quick-view/save/export/",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/quick-view/save/export/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "Exposing Features"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Feature Introduction",
+    "permalink": "/jimmer-doc/docs/quick-view/save/feature"
+  },
+  "next": {
+    "title": "Save Aggregate Root",
+    "permalink": "/jimmer-doc/docs/quick-view/save/export/root"
+  }
+}

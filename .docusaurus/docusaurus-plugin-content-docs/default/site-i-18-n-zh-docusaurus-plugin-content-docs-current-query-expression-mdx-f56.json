@@ -1,0 +1,28 @@
+{
+  "unversionedId": "query/expression",
+  "id": "query/expression",
+  "title": "DSL表达式",
+  "description": "字面量表达式",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/query/expression.mdx",
+  "sourceDirName": "query",
+  "slug": "/query/expression",
+  "permalink": "/jimmer-doc/zh/docs/query/expression",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/query/expression.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "sidebar_position": 9,
+    "title": "DSL表达式"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "深分页优化",
+    "permalink": "/jimmer-doc/zh/docs/query/paging/deep-optimization"
+  },
+  "next": {
+    "title": "Native表达式",
+    "permalink": "/jimmer-doc/zh/docs/query/native-sql"
+  }
+}

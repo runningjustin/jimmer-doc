@@ -1,0 +1,28 @@
+{
+  "unversionedId": "object/immutable/solution",
+  "id": "object/immutable/solution",
+  "title": "方案",
+  "description": "上面的示例代码使用了一个名为TreeNodeDraft的类型，该接口是Jimmer根据用户定义的类型TreeNode自动生成的接口类型。",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/object/immutable/solution.mdx",
+  "sourceDirName": "object/immutable",
+  "slug": "/object/immutable/solution",
+  "permalink": "/jimmer-doc/zh/docs/object/immutable/solution",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/object/immutable/solution.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "方案"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "现状",
+    "permalink": "/jimmer-doc/zh/docs/object/immutable/current-situation"
+  },
+  "next": {
+    "title": "Draft",
+    "permalink": "/jimmer-doc/zh/docs/object/draft"
+  }
+}

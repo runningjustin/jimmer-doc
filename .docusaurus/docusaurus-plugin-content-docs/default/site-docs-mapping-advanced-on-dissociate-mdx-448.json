@@ -1,0 +1,28 @@
+{
+  "unversionedId": "mapping/advanced/on-dissociate",
+  "id": "mapping/advanced/on-dissociate",
+  "title": "OnDissociate",
+  "description": "Concepts",
+  "source": "@site/docs/mapping/advanced/on-dissociate.mdx",
+  "sourceDirName": "mapping/advanced",
+  "slug": "/mapping/advanced/on-dissociate",
+  "permalink": "/jimmer-doc/docs/mapping/advanced/on-dissociate",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/mapping/advanced/on-dissociate.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 11,
+  "frontMatter": {
+    "sidebar_position": 11,
+    "title": "OnDissociate"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Key",
+    "permalink": "/jimmer-doc/docs/mapping/advanced/key"
+  },
+  "next": {
+    "title": "Query",
+    "permalink": "/jimmer-doc/docs/query/"
+  }
+}

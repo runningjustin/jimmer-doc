@@ -1,0 +1,28 @@
+{
+  "unversionedId": "quick-view/fetch/export/dto",
+  "id": "quick-view/fetch/export/dto",
+  "title": "返回输出DTO",
+  "description": "Java/Kotlin应用自己使用查询结果",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/quick-view/fetch/export/dto.mdx",
+  "sourceDirName": "quick-view/fetch/export",
+  "slug": "/quick-view/fetch/export/dto",
+  "permalink": "/jimmer-doc/zh/docs/quick-view/fetch/export/dto",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/quick-view/fetch/export/dto.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "返回输出DTO"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "直接返回实体",
+    "permalink": "/jimmer-doc/zh/docs/quick-view/fetch/export/entity"
+  },
+  "next": {
+    "title": "比较",
+    "permalink": "/jimmer-doc/zh/docs/quick-view/fetch/export/comparison"
+  }
+}

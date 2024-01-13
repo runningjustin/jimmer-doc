@@ -1,0 +1,28 @@
+{
+  "unversionedId": "configuration/scala-providder",
+  "id": "configuration/scala-providder",
+  "title": "Scala Provider",
+  "description": "基本概念",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/configuration/scala-providder.mdx",
+  "sourceDirName": "configuration",
+  "slug": "/configuration/scala-providder",
+  "permalink": "/jimmer-doc/zh/docs/configuration/scala-providder",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/configuration/scala-providder.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "sidebar_position": 9,
+    "title": "Scala Provider"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "微服务",
+    "permalink": "/jimmer-doc/zh/docs/configuration/micro-service"
+  },
+  "next": {
+    "title": "缓存未生效的原因",
+    "permalink": "/jimmer-doc/zh/docs/configuration/cache-abandoned"
+  }
+}

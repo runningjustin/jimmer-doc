@@ -1,0 +1,28 @@
+{
+  "unversionedId": "mutation/before-save/index",
+  "id": "mutation/before-save/index",
+  "title": "Interceptor Before Save",
+  "description": "",
+  "source": "@site/docs/mutation/before-save/index.md",
+  "sourceDirName": "mutation/before-save",
+  "slug": "/mutation/before-save/",
+  "permalink": "/jimmer-doc/zh/docs/mutation/before-save/",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer/tree/main/doc/docs/mutation/before-save/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6,
+    "title": "Interceptor Before Save"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "直接修改中间表",
+    "permalink": "/jimmer-doc/zh/docs/mutation/associations"
+  },
+  "next": {
+    "title": "DraftHandler",
+    "permalink": "/jimmer-doc/zh/docs/mutation/before-save/draft-handler"
+  }
+}

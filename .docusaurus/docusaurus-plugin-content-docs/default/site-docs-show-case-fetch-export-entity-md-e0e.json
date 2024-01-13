@@ -1,0 +1,28 @@
+{
+  "unversionedId": "show-case/fetch/export/entity",
+  "id": "show-case/fetch/export/entity",
+  "title": "Return Entity",
+  "description": "",
+  "source": "@site/docs/show-case/fetch/export/entity.md",
+  "sourceDirName": "show-case/fetch/export",
+  "slug": "/show-case/fetch/export/entity",
+  "permalink": "/jimmer-doc/zh/docs/show-case/fetch/export/entity",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer/tree/main/doc/docs/show-case/fetch/export/entity.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Return Entity"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Export feature",
+    "permalink": "/jimmer-doc/zh/docs/show-case/fetch/export/"
+  },
+  "next": {
+    "title": "Return Output DTO",
+    "permalink": "/jimmer-doc/zh/docs/show-case/fetch/export/dto"
+  }
+}

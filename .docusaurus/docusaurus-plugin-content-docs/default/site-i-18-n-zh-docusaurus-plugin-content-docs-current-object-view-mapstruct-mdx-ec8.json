@@ -1,0 +1,28 @@
+{
+  "unversionedId": "object/view/mapstruct",
+  "id": "object/view/mapstruct",
+  "title": "MapStruct",
+  "description": "简介",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/object/view/mapstruct.mdx",
+  "sourceDirName": "object/view",
+  "slug": "/object/view/mapstruct",
+  "permalink": "/jimmer-doc/zh/docs/object/view/mapstruct",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/object/view/mapstruct.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "MapStruct"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🔥 DTO语言",
+    "permalink": "/jimmer-doc/zh/docs/object/view/dto-language"
+  },
+  "next": {
+    "title": "可见性",
+    "permalink": "/jimmer-doc/zh/docs/object/visibility"
+  }
+}

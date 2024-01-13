@@ -1,0 +1,28 @@
+{
+  "unversionedId": "mutation/save-command/dissociation",
+  "id": "mutation/save-command/dissociation",
+  "title": "Dissociation Operations",
+  "description": "An important concept is involved when saving associated objects: dissociation operations.",
+  "source": "@site/docs/mutation/save-command/dissociation.mdx",
+  "sourceDirName": "mutation/save-command",
+  "slug": "/mutation/save-command/dissociation",
+  "permalink": "/jimmer-doc/docs/mutation/save-command/dissociation",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/mutation/save-command/dissociation.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5,
+    "title": "Dissociation Operations"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Save Associations",
+    "permalink": "/jimmer-doc/docs/mutation/save-command/association"
+  },
+  "next": {
+    "title": "Associated Id Checking",
+    "permalink": "/jimmer-doc/docs/mutation/save-command/id-checking"
+  }
+}

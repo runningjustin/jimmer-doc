@@ -1,0 +1,28 @@
+{
+  "unversionedId": "resource/vedio",
+  "id": "resource/vedio",
+  "title": "Vedio",
+  "description": "TODO",
+  "source": "@site/docs/resource/vedio.mdx",
+  "sourceDirName": "resource",
+  "slug": "/resource/vedio",
+  "permalink": "/jimmer-doc/docs/resource/vedio",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/resource/vedio.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "Vedio"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Ecosystem",
+    "permalink": "/jimmer-doc/docs/resource/ecosystem"
+  },
+  "next": {
+    "title": "Discuss",
+    "permalink": "/jimmer-doc/docs/resource/discuss"
+  }
+}

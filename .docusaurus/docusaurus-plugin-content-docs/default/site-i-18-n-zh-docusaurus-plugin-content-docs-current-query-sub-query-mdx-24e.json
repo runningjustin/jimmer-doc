@@ -1,0 +1,28 @@
+{
+  "unversionedId": "query/sub-query",
+  "id": "query/sub-query",
+  "title": "子查询",
+  "description": "有类型子查询",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/query/sub-query.mdx",
+  "sourceDirName": "query",
+  "slug": "/query/sub-query",
+  "permalink": "/jimmer-doc/zh/docs/query/sub-query",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/query/sub-query.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 11,
+  "frontMatter": {
+    "sidebar_position": 11,
+    "title": "子查询"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "逻辑删除",
+    "permalink": "/jimmer-doc/zh/docs/query/global-filter/logical-deleted"
+  },
+  "next": {
+    "title": "直接查询中间表",
+    "permalink": "/jimmer-doc/zh/docs/query/associations"
+  }
+}

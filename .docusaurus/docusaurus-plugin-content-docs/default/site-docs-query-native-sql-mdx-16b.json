@@ -1,0 +1,28 @@
+{
+  "unversionedId": "query/native-sql",
+  "id": "query/native-sql",
+  "title": "Native SQL Expressions",
+  "description": "Native SQL expressions are an important feature to leverage database-specific capabilities, as database products always have proprietary features.",
+  "source": "@site/docs/query/native-sql.mdx",
+  "sourceDirName": "query",
+  "slug": "/query/native-sql",
+  "permalink": "/jimmer-doc/docs/query/native-sql",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/query/native-sql.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_position": 10,
+    "title": "Native SQL Expressions"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "DSL Expressions",
+    "permalink": "/jimmer-doc/docs/query/expression"
+  },
+  "next": {
+    "title": "Subqueries",
+    "permalink": "/jimmer-doc/docs/query/sub-query"
+  }
+}

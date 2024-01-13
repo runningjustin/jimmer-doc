@@ -1,0 +1,28 @@
+{
+  "unversionedId": "spring/client/error",
+  "id": "spring/client/error",
+  "title": "生成前端异常",
+  "description": "这部分功能其实和ORM没有关系。",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/spring/client/error.mdx",
+  "sourceDirName": "spring/client",
+  "slug": "/spring/client/error",
+  "permalink": "/jimmer-doc/zh/docs/spring/client/error",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer/tree/main/doc/docs/spring/client/error.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "生成前端异常"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "生成前端API",
+    "permalink": "/jimmer-doc/zh/docs/spring/client/api"
+  },
+  "next": {
+    "title": "Spring Cloud和远程关联",
+    "permalink": "/jimmer-doc/zh/docs/spring/spring-cloud"
+  }
+}

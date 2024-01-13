@@ -1,0 +1,28 @@
+{
+  "unversionedId": "mapping/advanced/calculated/index",
+  "id": "mapping/advanced/calculated/index",
+  "title": "计算属性",
+  "description": "在这里，你会了解到Jimmer的计算属性，以及注解：",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/mapping/advanced/calculated/index.md",
+  "sourceDirName": "mapping/advanced/calculated",
+  "slug": "/mapping/advanced/calculated/",
+  "permalink": "/jimmer-doc/zh/docs/mapping/advanced/calculated/",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/mapping/advanced/calculated/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5,
+    "title": "计算属性"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ManyToManyView",
+    "permalink": "/jimmer-doc/zh/docs/mapping/advanced/view/many-to-many-view"
+  },
+  "next": {
+    "title": "简单计算",
+    "permalink": "/jimmer-doc/zh/docs/mapping/advanced/calculated/formula"
+  }
+}

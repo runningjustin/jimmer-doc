@@ -1,0 +1,28 @@
+{
+  "unversionedId": "configuration/scala-providder",
+  "id": "configuration/scala-providder",
+  "title": "Scala Provider",
+  "description": "Basic Concepts",
+  "source": "@site/docs/configuration/scala-providder.mdx",
+  "sourceDirName": "configuration",
+  "slug": "/configuration/scala-providder",
+  "permalink": "/jimmer-doc/docs/configuration/scala-providder",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/configuration/scala-providder.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "sidebar_position": 9,
+    "title": "Scala Provider"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Microservice",
+    "permalink": "/jimmer-doc/docs/configuration/micro-service"
+  },
+  "next": {
+    "title": "Cache Abandoned Reason",
+    "permalink": "/jimmer-doc/docs/configuration/cache-abandoned"
+  }
+}

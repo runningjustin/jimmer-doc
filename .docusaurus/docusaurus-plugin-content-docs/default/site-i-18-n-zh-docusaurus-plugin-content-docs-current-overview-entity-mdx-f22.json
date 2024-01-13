@@ -1,0 +1,28 @@
+{
+  "unversionedId": "overview/entity",
+  "id": "overview/entity",
+  "title": "不一样的实体",
+  "description": "Jimmer实体的风格",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/overview/entity.mdx",
+  "sourceDirName": "overview",
+  "slug": "/overview/entity",
+  "permalink": "/jimmer-doc/zh/docs/overview/entity",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/overview/entity.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "不一样的实体"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "项目介绍",
+    "permalink": "/jimmer-doc/zh/docs/overview/introduction"
+  },
+  "next": {
+    "title": "例子(最快学习方法)",
+    "permalink": "/jimmer-doc/zh/docs/overview/standard-demo"
+  }
+}

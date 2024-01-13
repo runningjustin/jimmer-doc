@@ -1,0 +1,28 @@
+{
+  "unversionedId": "query/object-fetcher/props",
+  "id": "query/object-fetcher/props",
+  "title": "Ordinary Properties",
+  "description": "Fetching Scalar Fields",
+  "source": "@site/docs/query/object-fetcher/props.mdx",
+  "sourceDirName": "query/object-fetcher",
+  "slug": "/query/object-fetcher/props",
+  "permalink": "/jimmer-doc/docs/query/object-fetcher/props",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/query/object-fetcher/props.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "Ordinary Properties"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Basic Usage",
+    "permalink": "/jimmer-doc/docs/query/object-fetcher/usage"
+  },
+  "next": {
+    "title": "Associations",
+    "permalink": "/jimmer-doc/docs/query/object-fetcher/association"
+  }
+}

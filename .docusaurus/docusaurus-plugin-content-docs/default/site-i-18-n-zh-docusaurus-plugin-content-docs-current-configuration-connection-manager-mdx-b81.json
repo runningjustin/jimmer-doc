@@ -1,0 +1,28 @@
+{
+  "unversionedId": "configuration/connection-manager",
+  "id": "configuration/connection-manager",
+  "title": "Connection Manager",
+  "description": "基本概念",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/configuration/connection-manager.mdx",
+  "sourceDirName": "configuration",
+  "slug": "/configuration/connection-manager",
+  "permalink": "/jimmer-doc/zh/docs/configuration/connection-manager",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/configuration/connection-manager.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "Connection Manager"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "方言",
+    "permalink": "/jimmer-doc/zh/docs/configuration/dialect"
+  },
+  "next": {
+    "title": "批量控制",
+    "permalink": "/jimmer-doc/zh/docs/configuration/batch-size"
+  }
+}

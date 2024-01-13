@@ -1,0 +1,28 @@
+{
+  "unversionedId": "query/global-filter/index",
+  "id": "query/global-filter/index",
+  "title": "全局过滤器",
+  "description": "全局过滤器用于为自动某些实体添加过滤条件，绝大部分针对这些实体类型的查询都会被自动添加相关where条件。",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/query/global-filter/index.md",
+  "sourceDirName": "query/global-filter",
+  "slug": "/query/global-filter/",
+  "permalink": "/jimmer-doc/zh/docs/query/global-filter/",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/query/global-filter/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 11,
+  "frontMatter": {
+    "sidebar_position": 11,
+    "title": "全局过滤器"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Native表达式",
+    "permalink": "/jimmer-doc/zh/docs/query/native-sql"
+  },
+  "next": {
+    "title": "自定义过滤器",
+    "permalink": "/jimmer-doc/zh/docs/query/global-filter/user-filter"
+  }
+}

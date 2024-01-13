@@ -1,0 +1,28 @@
+{
+  "unversionedId": "query/dynamic-join/merge",
+  "id": "query/dynamic-join/merge",
+  "title": "Merge Conflict Joins",
+  "description": "Usage",
+  "source": "@site/docs/query/dynamic-join/merge.mdx",
+  "sourceDirName": "query/dynamic-join",
+  "slug": "/query/dynamic-join/merge",
+  "permalink": "/jimmer-doc/docs/query/dynamic-join/merge",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/query/dynamic-join/merge.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "Merge Conflict Joins"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Association Path Chaining",
+    "permalink": "/jimmer-doc/docs/query/dynamic-join/chain-style"
+  },
+  "next": {
+    "title": "Optimize Unnecessary Joins",
+    "permalink": "/jimmer-doc/docs/query/dynamic-join/optimization"
+  }
+}

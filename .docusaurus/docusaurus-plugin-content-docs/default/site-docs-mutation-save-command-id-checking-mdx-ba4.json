@@ -1,0 +1,28 @@
+{
+  "unversionedId": "mutation/save-command/id-checking",
+  "id": "mutation/save-command/id-checking",
+  "title": "Associated Id Checking",
+  "description": "Basic Concepts",
+  "source": "@site/docs/mutation/save-command/id-checking.mdx",
+  "sourceDirName": "mutation/save-command",
+  "slug": "/mutation/save-command/id-checking",
+  "permalink": "/jimmer-doc/docs/mutation/save-command/id-checking",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/mutation/save-command/id-checking.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6,
+    "title": "Associated Id Checking"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Dissociation Operations",
+    "permalink": "/jimmer-doc/docs/mutation/save-command/dissociation"
+  },
+  "next": {
+    "title": "Optimistic/Pessimistic Lock",
+    "permalink": "/jimmer-doc/docs/mutation/save-command/lock"
+  }
+}

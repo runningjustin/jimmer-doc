@@ -1,0 +1,28 @@
+{
+  "unversionedId": "object/immutable/reason",
+  "id": "object/immutable/reason",
+  "title": "原因",
+  "description": "和其他ORM不同，Jimmer采用不可变对象作为实体对象",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/object/immutable/reason.mdx",
+  "sourceDirName": "object/immutable",
+  "slug": "/object/immutable/reason",
+  "permalink": "/jimmer-doc/zh/docs/object/immutable/reason",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/object/immutable/reason.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "原因"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "不可变性",
+    "permalink": "/jimmer-doc/zh/docs/object/immutable/"
+  },
+  "next": {
+    "title": "现状",
+    "permalink": "/jimmer-doc/zh/docs/object/immutable/current-situation"
+  }
+}

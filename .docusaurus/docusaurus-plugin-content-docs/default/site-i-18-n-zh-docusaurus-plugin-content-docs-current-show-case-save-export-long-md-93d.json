@@ -1,0 +1,28 @@
+{
+  "unversionedId": "show-case/save/export/long",
+  "id": "show-case/save/export/long",
+  "title": "保存长关联",
+  "description": "",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/show-case/save/export/long.md",
+  "sourceDirName": "show-case/save/export",
+  "slug": "/show-case/save/export/long",
+  "permalink": "/jimmer-doc/zh/docs/show-case/save/export/long",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer/tree/main/doc/docs/show-case/save/export/long.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "保存长关联"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "保存短关联",
+    "permalink": "/jimmer-doc/zh/docs/show-case/save/export/short"
+  },
+  "next": {
+    "title": "任意动态查询",
+    "permalink": "/jimmer-doc/zh/docs/show-case/dsl/"
+  }
+}

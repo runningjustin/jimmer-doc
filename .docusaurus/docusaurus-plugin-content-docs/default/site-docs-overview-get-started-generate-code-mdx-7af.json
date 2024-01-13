@@ -1,0 +1,28 @@
+{
+  "unversionedId": "overview/get-started/generate-code",
+  "id": "overview/get-started/generate-code",
+  "title": "Generate Code",
+  "description": "Code Generation",
+  "source": "@site/docs/overview/get-started/generate-code.mdx",
+  "sourceDirName": "overview/get-started",
+  "slug": "/overview/get-started/generate-code",
+  "permalink": "/jimmer-doc/docs/overview/get-started/generate-code",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/overview/get-started/generate-code.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "title": "Generate Code"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Define Entities",
+    "permalink": "/jimmer-doc/docs/overview/get-started/define-entity"
+  },
+  "next": {
+    "title": "Final Usage",
+    "permalink": "/jimmer-doc/docs/overview/get-started/usage"
+  }
+}

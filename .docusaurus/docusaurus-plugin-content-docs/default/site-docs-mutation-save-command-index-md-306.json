@@ -1,0 +1,28 @@
+{
+  "unversionedId": "mutation/save-command/index",
+  "id": "mutation/save-command/index",
+  "title": "🔥 Save Command",
+  "description": "One statement to save complex data of arbitrary shape, find DIFF to change database, like React/Vue",
+  "source": "@site/docs/mutation/save-command/index.md",
+  "sourceDirName": "mutation/save-command",
+  "slug": "/mutation/save-command/",
+  "permalink": "/jimmer-doc/docs/mutation/save-command/",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/mutation/save-command/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "🔥 Save Command"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Delete Statement",
+    "permalink": "/jimmer-doc/docs/mutation/delete-statement"
+  },
+  "next": {
+    "title": "Basic Usage",
+    "permalink": "/jimmer-doc/docs/mutation/save-command/usage"
+  }
+}

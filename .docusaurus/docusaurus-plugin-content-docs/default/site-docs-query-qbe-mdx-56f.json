@@ -1,0 +1,28 @@
+{
+  "unversionedId": "query/qbe",
+  "id": "query/qbe",
+  "title": "Simple QBE",
+  "description": "TODO",
+  "source": "@site/docs/query/qbe.mdx",
+  "sourceDirName": "query",
+  "slug": "/query/qbe",
+  "permalink": "/jimmer-doc/docs/query/qbe",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer/tree/main/doc/docs/query/qbe.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 13,
+  "frontMatter": {
+    "sidebar_position": 13,
+    "title": "Simple QBE"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Querying Association Tables",
+    "permalink": "/jimmer-doc/docs/query/associations"
+  },
+  "next": {
+    "title": "🔥 Super QBE",
+    "permalink": "/jimmer-doc/docs/query/super_qbe"
+  }
+}

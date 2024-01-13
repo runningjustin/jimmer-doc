@@ -1,0 +1,28 @@
+{
+  "unversionedId": "show-case/save/feature",
+  "id": "show-case/save/feature",
+  "title": "Feature",
+  "description": "",
+  "source": "@site/docs/show-case/save/feature.mdx",
+  "sourceDirName": "show-case/save",
+  "slug": "/show-case/save/feature",
+  "permalink": "/jimmer-doc/zh/docs/show-case/save/feature",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer/tree/main/doc/docs/show-case/save/feature.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Feature"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Save arbitrary shapes",
+    "permalink": "/jimmer-doc/zh/docs/show-case/save/"
+  },
+  "next": {
+    "title": "Export feature",
+    "permalink": "/jimmer-doc/zh/docs/show-case/save/export/"
+  }
+}

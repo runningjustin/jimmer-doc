@@ -1,0 +1,28 @@
+{
+  "unversionedId": "client/index",
+  "id": "client/index",
+  "title": "Client",
+  "description": "",
+  "source": "@site/docs/client/index.mdx",
+  "sourceDirName": "client",
+  "slug": "/client/",
+  "permalink": "/jimmer-doc/docs/client/",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/client/index.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6,
+    "title": "Client"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Cache Abandoned Reason",
+    "permalink": "/jimmer-doc/docs/cache/multiview-cache/abandoned-callback"
+  },
+  "next": {
+    "title": "Generate Client API",
+    "permalink": "/jimmer-doc/docs/client/api"
+  }
+}

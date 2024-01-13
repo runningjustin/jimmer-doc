@@ -1,0 +1,28 @@
+{
+  "unversionedId": "mutation/save-command/input-dto/mapstruct",
+  "id": "mutation/save-command/input-dto/mapstruct",
+  "title": "使用MapStruct",
+  "description": "不推荐在Kotlin下使用此方案。",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/mutation/save-command/input-dto/mapstruct.mdx",
+  "sourceDirName": "mutation/save-command/input-dto",
+  "slug": "/mutation/save-command/input-dto/mapstruct",
+  "permalink": "/jimmer-doc/zh/docs/mutation/save-command/input-dto/mapstruct",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/mutation/save-command/input-dto/mapstruct.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "title": "使用MapStruct"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "使用DTO语言",
+    "permalink": "/jimmer-doc/zh/docs/mutation/save-command/input-dto/dto-lang"
+  },
+  "next": {
+    "title": "删除指令",
+    "permalink": "/jimmer-doc/zh/docs/mutation/delete-command"
+  }
+}

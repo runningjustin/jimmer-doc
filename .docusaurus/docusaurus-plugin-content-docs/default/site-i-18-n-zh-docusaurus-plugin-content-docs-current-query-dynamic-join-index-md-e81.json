@@ -1,0 +1,28 @@
+{
+  "unversionedId": "query/dynamic-join/index",
+  "id": "query/dynamic-join/index",
+  "title": "动态JOIN",
+  "description": "我们将介绍如下内容",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/query/dynamic-join/index.md",
+  "sourceDirName": "query/dynamic-join",
+  "slug": "/query/dynamic-join/",
+  "permalink": "/jimmer-doc/zh/docs/query/dynamic-join/",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/query/dynamic-join/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "title": "动态JOIN"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "动态筛选",
+    "permalink": "/jimmer-doc/zh/docs/query/dynamic-where"
+  },
+  "next": {
+    "title": "其他解决方案的问题",
+    "permalink": "/jimmer-doc/zh/docs/query/dynamic-join/problem"
+  }
+}

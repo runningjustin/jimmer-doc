@@ -1,0 +1,28 @@
+{
+  "unversionedId": "mapping/advanced/calculated/transient",
+  "id": "mapping/advanced/calculated/transient",
+  "title": "Complex Calculation",
+  "description": "@Transient Annotation",
+  "source": "@site/docs/mapping/advanced/calculated/transient.mdx",
+  "sourceDirName": "mapping/advanced/calculated",
+  "slug": "/mapping/advanced/calculated/transient",
+  "permalink": "/jimmer-doc/docs/mapping/advanced/calculated/transient",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/mapping/advanced/calculated/transient.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Complex Calculation"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Formula",
+    "permalink": "/jimmer-doc/docs/mapping/advanced/calculated/formula"
+  },
+  "next": {
+    "title": "Enum Mapping",
+    "permalink": "/jimmer-doc/docs/mapping/advanced/enum"
+  }
+}

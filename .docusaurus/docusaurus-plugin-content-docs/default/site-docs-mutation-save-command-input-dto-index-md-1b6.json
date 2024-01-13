@@ -1,0 +1,28 @@
+{
+  "unversionedId": "mutation/save-command/input-dto/index",
+  "id": "mutation/save-command/input-dto/index",
+  "title": "Input DTO",
+  "description": "Although the underlying save commands are very powerful, there is still some way to go before exposing data persistence APIs externally.",
+  "source": "@site/docs/mutation/save-command/input-dto/index.md",
+  "sourceDirName": "mutation/save-command/input-dto",
+  "slug": "/mutation/save-command/input-dto/",
+  "permalink": "/jimmer-doc/docs/mutation/save-command/input-dto/",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/mutation/save-command/input-dto/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "sidebar_position": 9,
+    "title": "Input DTO"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Other Features",
+    "permalink": "/jimmer-doc/docs/mutation/save-command/other"
+  },
+  "next": {
+    "title": "Problem",
+    "permalink": "/jimmer-doc/docs/mutation/save-command/input-dto/problem"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "mutation/associations",
+  "id": "mutation/associations",
+  "title": "Mutable Association Table",
+  "description": "Overview",
+  "source": "@site/docs/mutation/associations.mdx",
+  "sourceDirName": "mutation",
+  "slug": "/mutation/associations",
+  "permalink": "/jimmer-doc/docs/mutation/associations",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/mutation/associations.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5,
+    "title": "Mutable Association Table"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Delete Command",
+    "permalink": "/jimmer-doc/docs/mutation/delete-command"
+  },
+  "next": {
+    "title": "Interceptor before save",
+    "permalink": "/jimmer-doc/docs/mutation/draft-interceptor"
+  }
+}

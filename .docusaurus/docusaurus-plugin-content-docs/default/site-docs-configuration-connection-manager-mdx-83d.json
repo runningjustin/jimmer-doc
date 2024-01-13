@@ -1,0 +1,28 @@
+{
+  "unversionedId": "configuration/connection-manager",
+  "id": "configuration/connection-manager",
+  "title": "Connection Manager",
+  "description": "Concept",
+  "source": "@site/docs/configuration/connection-manager.mdx",
+  "sourceDirName": "configuration",
+  "slug": "/configuration/connection-manager",
+  "permalink": "/jimmer-doc/docs/configuration/connection-manager",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/configuration/connection-manager.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "Connection Manager"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Dialect",
+    "permalink": "/jimmer-doc/docs/configuration/dialect"
+  },
+  "next": {
+    "title": "Batch Control",
+    "permalink": "/jimmer-doc/docs/configuration/batch-size"
+  }
+}

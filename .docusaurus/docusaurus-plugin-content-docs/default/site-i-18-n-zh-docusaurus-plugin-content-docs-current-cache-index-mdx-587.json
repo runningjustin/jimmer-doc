@@ -1,0 +1,28 @@
+{
+  "unversionedId": "cache/index",
+  "id": "cache/index",
+  "title": "缓存篇",
+  "description": "Jimmer提供了强大的缓存支持能力。",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/cache/index.mdx",
+  "sourceDirName": "cache",
+  "slug": "/cache/",
+  "permalink": "/jimmer-doc/zh/docs/cache/",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/cache/index.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6,
+    "title": "缓存篇"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🔥 触发器",
+    "permalink": "/jimmer-doc/zh/docs/mutation/trigger"
+  },
+  "next": {
+    "title": "启用缓存",
+    "permalink": "/jimmer-doc/zh/docs/cache/enable-cache"
+  }
+}

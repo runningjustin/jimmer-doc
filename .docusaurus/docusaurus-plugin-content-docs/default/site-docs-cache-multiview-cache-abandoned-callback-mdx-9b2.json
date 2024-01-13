@@ -1,0 +1,28 @@
+{
+  "unversionedId": "cache/multiview-cache/abandoned-callback",
+  "id": "cache/multiview-cache/abandoned-callback",
+  "title": "Cache Abandoned Reason",
+  "description": "CacheAbandonedCallback",
+  "source": "@site/docs/cache/multiview-cache/abandoned-callback.mdx",
+  "sourceDirName": "cache/multiview-cache",
+  "slug": "/cache/multiview-cache/abandoned-callback",
+  "permalink": "/jimmer-doc/docs/cache/multiview-cache/abandoned-callback",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/cache/multiview-cache/abandoned-callback.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "title": "Cache Abandoned Reason"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Advanced usage",
+    "permalink": "/jimmer-doc/docs/cache/multiview-cache/advanced"
+  },
+  "next": {
+    "title": "Client",
+    "permalink": "/jimmer-doc/docs/client/"
+  }
+}

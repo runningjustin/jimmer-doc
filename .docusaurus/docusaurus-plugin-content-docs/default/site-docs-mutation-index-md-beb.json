@@ -1,0 +1,28 @@
+{
+  "unversionedId": "mutation/index",
+  "id": "mutation/index",
+  "title": "Modification",
+  "description": "In this section, we will introduce all the capabilities in Jimmer related to modifying the database.",
+  "source": "@site/docs/mutation/index.md",
+  "sourceDirName": "mutation",
+  "slug": "/mutation/",
+  "permalink": "/jimmer-doc/docs/mutation/",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/mutation/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "title": "Modification"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🔥 Super QBE",
+    "permalink": "/jimmer-doc/docs/query/super_qbe"
+  },
+  "next": {
+    "title": "Update Statement",
+    "permalink": "/jimmer-doc/docs/mutation/update-statement"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "spring/spring-cloud",
+  "id": "spring/spring-cloud",
+  "title": "Spring Cloud和远程关联",
+  "description": "远程关联是Jimmer对微服务架构的首次思考。",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/spring/spring-cloud.mdx",
+  "sourceDirName": "spring",
+  "slug": "/spring/spring-cloud",
+  "permalink": "/jimmer-doc/zh/docs/spring/spring-cloud",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/spring/spring-cloud.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "Spring Cloud和远程关联"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "查询DTO",
+    "permalink": "/jimmer-doc/zh/docs/spring/repository/dto"
+  },
+  "next": {
+    "title": "附录",
+    "permalink": "/jimmer-doc/zh/docs/spring/appendix"
+  }
+}

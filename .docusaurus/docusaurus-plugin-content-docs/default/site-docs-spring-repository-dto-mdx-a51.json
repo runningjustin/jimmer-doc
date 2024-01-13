@@ -1,0 +1,28 @@
+{
+  "unversionedId": "spring/repository/dto",
+  "id": "spring/repository/dto",
+  "title": "Query DTO",
+  "description": "Jimmer provides DTO language.",
+  "source": "@site/docs/spring/repository/dto.mdx",
+  "sourceDirName": "spring/repository",
+  "slug": "/spring/repository/dto",
+  "permalink": "/jimmer-doc/docs/spring/repository/dto",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/spring/repository/dto.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "title": "Query DTO"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Complex Queries",
+    "permalink": "/jimmer-doc/docs/spring/repository/default"
+  },
+  "next": {
+    "title": "Remote Associations",
+    "permalink": "/jimmer-doc/docs/spring/spring-cloud"
+  }
+}

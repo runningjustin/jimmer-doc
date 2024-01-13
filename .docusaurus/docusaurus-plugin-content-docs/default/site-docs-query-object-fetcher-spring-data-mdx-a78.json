@@ -1,0 +1,28 @@
+{
+  "unversionedId": "query/object-fetcher/spring-data",
+  "id": "query/object-fetcher/spring-data",
+  "title": "Working with Spring Data",
+  "description": "We have introduced that object fetchers can flexibly control the shape of queried data structures, bringing tremendous flexibility for application development.",
+  "source": "@site/docs/query/object-fetcher/spring-data.mdx",
+  "sourceDirName": "query/object-fetcher",
+  "slug": "/query/object-fetcher/spring-data",
+  "permalink": "/jimmer-doc/docs/query/object-fetcher/spring-data",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/query/object-fetcher/spring-data.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7,
+    "title": "Working with Spring Data"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Querying DTOs",
+    "permalink": "/jimmer-doc/docs/query/object-fetcher/dto"
+  },
+  "next": {
+    "title": "Dynamic Filtering",
+    "permalink": "/jimmer-doc/docs/query/dynamic-where"
+  }
+}

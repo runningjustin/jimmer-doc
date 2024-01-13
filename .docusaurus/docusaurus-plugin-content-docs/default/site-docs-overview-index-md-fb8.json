@@ -1,0 +1,24 @@
+{
+  "unversionedId": "overview/index",
+  "id": "overview/index",
+  "title": "Introduction to Jimmer",
+  "description": "In this series of articles, we will introduce:",
+  "source": "@site/docs/overview/index.md",
+  "sourceDirName": "overview",
+  "slug": "/overview/",
+  "permalink": "/jimmer-doc/docs/overview/",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/overview/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Introduction to Jimmer"
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Project Introduction",
+    "permalink": "/jimmer-doc/docs/overview/introduction"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "query/paging/index",
+  "id": "query/paging/index",
+  "title": "🔥 Smart Paging",
+  "description": "Here is the English translation:",
+  "source": "@site/docs/query/paging/index.md",
+  "sourceDirName": "query/paging",
+  "slug": "/query/paging/",
+  "permalink": "/jimmer-doc/docs/query/paging/",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/query/paging/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8,
+    "title": "🔥 Smart Paging"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Aggregate & Group",
+    "permalink": "/jimmer-doc/docs/query/group"
+  },
+  "next": {
+    "title": "Usage",
+    "permalink": "/jimmer-doc/docs/query/paging/usage"
+  }
+}

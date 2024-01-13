@@ -1,0 +1,28 @@
+{
+  "unversionedId": "show-case/save/export/dto",
+  "id": "show-case/save/export/dto",
+  "title": "Return Output DTO",
+  "description": "",
+  "source": "@site/docs/show-case/save/export/dto.md",
+  "sourceDirName": "show-case/save/export",
+  "slug": "/show-case/save/export/dto",
+  "permalink": "/jimmer-doc/zh/docs/show-case/save/export/dto",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer/tree/main/doc/docs/show-case/save/export/dto.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "Return Output DTO"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Return Entity",
+    "permalink": "/jimmer-doc/zh/docs/show-case/save/export/short"
+  },
+  "next": {
+    "title": "Feature",
+    "permalink": "/jimmer-doc/zh/docs/show-case/save/feature"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "object/dynamic",
+  "id": "object/dynamic",
+  "title": "🔥 动态性",
+  "description": "本文的示例代码使用了一个名为BookDraft的类型，该接口是Jimmer根据用户定义的类型Book自动生成的接口类型。",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/object/dynamic.mdx",
+  "sourceDirName": "object",
+  "slug": "/object/dynamic",
+  "permalink": "/jimmer-doc/zh/docs/object/dynamic",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/object/dynamic.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "🔥 动态性"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "对象篇",
+    "permalink": "/jimmer-doc/zh/docs/object/"
+  },
+  "next": {
+    "title": "不可变性",
+    "permalink": "/jimmer-doc/zh/docs/object/immutable/"
+  }
+}

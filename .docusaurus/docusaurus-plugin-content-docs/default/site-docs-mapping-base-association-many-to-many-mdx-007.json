@@ -1,0 +1,28 @@
+{
+  "unversionedId": "mapping/base/association/many-to-many",
+  "id": "mapping/base/association/many-to-many",
+  "title": "Many To Many",
+  "description": "This chapter introduces how to use the @org.babyfish.jimmer.sql.ManyToMany annotation to declare many-to-many association properties.",
+  "source": "@site/docs/mapping/base/association/many-to-many.mdx",
+  "sourceDirName": "mapping/base/association",
+  "slug": "/mapping/base/association/many-to-many",
+  "permalink": "/jimmer-doc/docs/mapping/base/association/many-to-many",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/mapping/base/association/many-to-many.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "title": "Many To Many"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "One To Many",
+    "permalink": "/jimmer-doc/docs/mapping/base/association/one-to-many"
+  },
+  "next": {
+    "title": "Naming Strategy",
+    "permalink": "/jimmer-doc/docs/mapping/base/naming-strategy"
+  }
+}

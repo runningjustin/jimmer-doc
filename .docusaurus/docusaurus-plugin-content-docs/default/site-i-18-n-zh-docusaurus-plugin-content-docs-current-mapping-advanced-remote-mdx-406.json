@@ -1,0 +1,28 @@
+{
+  "unversionedId": "mapping/advanced/remote",
+  "id": "mapping/advanced/remote",
+  "title": "远程关联",
+  "description": "远程关联是Jimmer和微服务技术体系相结合后的产物，会在Spring Cloud和远程关联中详细介绍。",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/mapping/advanced/remote.mdx",
+  "sourceDirName": "mapping/advanced",
+  "slug": "/mapping/advanced/remote",
+  "permalink": "/jimmer-doc/zh/docs/mapping/advanced/remote",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/mapping/advanced/remote.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "sidebar_position": 9,
+    "title": "远程关联"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "非结构化映射",
+    "permalink": "/jimmer-doc/zh/docs/mapping/advanced/join-sql"
+  },
+  "next": {
+    "title": "Key",
+    "permalink": "/jimmer-doc/zh/docs/mapping/advanced/key"
+  }
+}

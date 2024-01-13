@@ -1,0 +1,28 @@
+{
+  "unversionedId": "object/view/index",
+  "id": "object/view/index",
+  "title": "DTO转换",
+  "description": "即使实体对象支持了动态性以表达任意形状的数据结构，和DTO之间的转换也是无法完全避免的。",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/object/view/index.md",
+  "sourceDirName": "object/view",
+  "slug": "/object/view/",
+  "permalink": "/jimmer-doc/zh/docs/object/view/",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/object/view/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5,
+    "title": "DTO转换"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "和Jackson协同",
+    "permalink": "/jimmer-doc/zh/docs/object/jackson"
+  },
+  "next": {
+    "title": "🔥 DTO语言",
+    "permalink": "/jimmer-doc/zh/docs/object/view/dto-language"
+  }
+}

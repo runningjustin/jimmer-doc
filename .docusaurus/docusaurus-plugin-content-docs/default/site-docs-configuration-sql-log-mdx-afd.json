@@ -1,0 +1,28 @@
+{
+  "unversionedId": "configuration/sql-log",
+  "id": "configuration/sql-log",
+  "title": "SQL Log",
+  "description": "For ORM, it is important to print generated SQL in logs.",
+  "source": "@site/docs/configuration/sql-log.mdx",
+  "sourceDirName": "configuration",
+  "slug": "/configuration/sql-log",
+  "permalink": "/jimmer-doc/docs/configuration/sql-log",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/configuration/sql-log.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "title": "SQL Log"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Batch Control",
+    "permalink": "/jimmer-doc/docs/configuration/batch-size"
+  },
+  "next": {
+    "title": "Default Enum Strategy",
+    "permalink": "/jimmer-doc/docs/configuration/default-enum-strategy"
+  }
+}

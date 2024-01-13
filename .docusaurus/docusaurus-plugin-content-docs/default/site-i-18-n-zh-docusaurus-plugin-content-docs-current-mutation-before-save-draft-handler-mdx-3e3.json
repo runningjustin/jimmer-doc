@@ -1,0 +1,28 @@
+{
+  "unversionedId": "mutation/before-save/draft-handler",
+  "id": "mutation/before-save/draft-handler",
+  "title": "DraftHandler",
+  "description": "由于DraftHandler和DraftInterceptor功能基本相同，具备高的相似型，本文不打算完全重复阐述，只讲明它和后者的区别。",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/mutation/before-save/draft-handler.mdx",
+  "sourceDirName": "mutation/before-save",
+  "slug": "/mutation/before-save/draft-handler",
+  "permalink": "/jimmer-doc/zh/docs/mutation/before-save/draft-handler",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer/tree/main/doc/docs/mutation/before-save/draft-handler.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "DraftHandler"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "保存前拦截器",
+    "permalink": "/jimmer-doc/zh/docs/mutation/before-save/"
+  },
+  "next": {
+    "title": "Interceptor before save",
+    "permalink": "/jimmer-doc/zh/docs/mutation/before-save/draft-interceptor"
+  }
+}

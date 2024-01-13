@@ -1,0 +1,28 @@
+{
+  "unversionedId": "graphql/index",
+  "id": "graphql/index",
+  "title": "GraphQL篇",
+  "description": "在这一系列文章中，我们会介绍如何基于Jimmer快速实现GraphQL服务。",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/graphql/index.md",
+  "sourceDirName": "graphql",
+  "slug": "/graphql/",
+  "permalink": "/jimmer-doc/zh/docs/graphql/",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/graphql/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_position": 10,
+    "title": "GraphQL篇"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "默认脱钩方式",
+    "permalink": "/jimmer-doc/zh/docs/configuration/dissociate-action-checking"
+  },
+  "next": {
+    "title": "基本概念",
+    "permalink": "/jimmer-doc/zh/docs/graphql/concept"
+  }
+}

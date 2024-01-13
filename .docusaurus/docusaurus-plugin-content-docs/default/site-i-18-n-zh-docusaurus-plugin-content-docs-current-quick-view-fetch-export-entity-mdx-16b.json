@@ -1,0 +1,28 @@
+{
+  "unversionedId": "quick-view/fetch/export/entity",
+  "id": "quick-view/fetch/export/entity",
+  "title": "直接返回实体",
+  "description": "启动Web API自动分析",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/quick-view/fetch/export/entity.mdx",
+  "sourceDirName": "quick-view/fetch/export",
+  "slug": "/quick-view/fetch/export/entity",
+  "permalink": "/jimmer-doc/zh/docs/quick-view/fetch/export/entity",
+  "draft": false,
+  "editUrl": "https://github.com/babyfish-ct/jimmer-doc/tree/main/docs/quick-view/fetch/export/entity.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "直接返回实体"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "暴露功能",
+    "permalink": "/jimmer-doc/zh/docs/quick-view/fetch/export/"
+  },
+  "next": {
+    "title": "返回输出DTO",
+    "permalink": "/jimmer-doc/zh/docs/quick-view/fetch/export/dto"
+  }
+}
